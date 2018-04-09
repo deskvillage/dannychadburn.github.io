@@ -1,5 +1,5 @@
 title: Danny Chadburn
-description: Content, just how yopu like it
+description: Content, just how you like it
 
 url: http://danny.chadburn.co.uk
 baseurl: ""
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
+   github: 
+   twitter: 
+   facebook: 
    email: danny@chadburn.co.uk
 
 google_analytics: "UA-25073272-6"
