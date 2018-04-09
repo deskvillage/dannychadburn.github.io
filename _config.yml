@@ -1,4 +1,4 @@
-title: Danny Chadburn
+title: Tidy Swan
 description: Content, just how you like it
 
 url: http://danny.chadburn.co.uk
@@ -16,6 +16,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+- title: Copy
+   url: /copy
  - title: Contact
    url: /contact
  - title: Articles
