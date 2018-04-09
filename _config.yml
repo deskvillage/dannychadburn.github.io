@@ -12,8 +12,6 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Home
-   url: /index.html
  - title: About
    url: /about
 - title: Copy
