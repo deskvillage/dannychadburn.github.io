@@ -14,7 +14,6 @@ paginate: 0
 navigation:
  - title: Home
    url: /index.html
- - title: Test:
  - title: About
    url: /about
  - title: Copy
