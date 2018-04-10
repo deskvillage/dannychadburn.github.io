@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Campaigns
+title: Creative Content Campaigns
 ---
 
 <div class="post">
