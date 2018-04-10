@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Strategy
+title: Content Structure
 ---
 
 <div class="post">
