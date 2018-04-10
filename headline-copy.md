@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copywriting Services
+title: Headline Copywriting
 ---
 
 <div class="post">
