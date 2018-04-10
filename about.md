@@ -1,10 +1,11 @@
 ---
 layout: default
-title: About Long Haul
+title: About Tidy Swan
+published: true
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">Content, just teh way you like it</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
@@ -22,3 +23,16 @@ title: About Long Haul
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
 </div>
+
+## First thing
+
+- One item
+- Two items
+- Three items
+
+### Next thing
+
+1. One item
+2. Two items
+3. Three items
+
