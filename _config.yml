@@ -12,16 +12,20 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Home
+ - title: Content Services
    url: /index.html
+ - title: Copy
+   url: /headline-copy
+ - title: Creative
+   url: /creative-content-campaigns
+ - title: Structure
+   url: /content-structure
+ - title: Data
+   url: /content-data-models
  - title: About
    url: /about
- - title: Copy
-   url: /copy
  - title: Contact
    url: /contact
- - title: Articles
-   url: /articles
 
 social:
    github: 
