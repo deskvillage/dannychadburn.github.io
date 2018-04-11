@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Headline Copywriting
+title: Headline Copywriting | Tidy Swan
 published: true
 ---
 # Small is beautiful
