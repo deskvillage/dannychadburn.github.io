@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beer for an Idea | Tidy Swan
+title: Beer for an Idea | PAYG Creative Services | Tidy Swan
 published: true
 ---
 
