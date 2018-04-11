@@ -1,26 +1,30 @@
 ---
 layout: default
 title: Creative Content Campaigns
+published: true
 ---
 
-<div class="post">
-	<h1 class="pageTitle">More creative ways of selling your stuff</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-    <h2>Beer for an idea?</h2>
-    <p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-</div>
+# Thinking outside the dodecahedron
+
+> There's such thing as a template for perfect content campaign. If there was, industry would be a pretty dull place.
+
+So while there is a basic process I follow (planning, production, promotion), every campaign I craft is as individual as the companies I've created them for.
+
+## A conveyor belt of creativity
+
+Blend best of marketing, SEO, PR, social media and some new technology, find an audience hook then crack on.
+
+All backed up by [data](/content-data-models).
+
+> Want a taste of the kind of thing I can come up with? Check out my Beer for an Idea service, 
+
+## A bit of namedropping
+
+Campaigns I've crafted have appeared in these places, without a penny changing hands.
+
+### And some accolades
+
+Won some awards too (although take these pince of salt) - personal fave, different awards.
+
+![awards]({{site.baseurl}}/assets/vs-awards.gif)
+
