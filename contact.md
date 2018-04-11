@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Oh Do Make Contact
+title: Contact | Tidy Swan
 published: true
 ---
+
+# Markup
+
+Test this out
 
 <div id="contact">
   <h1 class="pageTitle">Contact Page Title</h1>
