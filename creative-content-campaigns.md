@@ -16,7 +16,7 @@ Blend best of marketing, SEO, PR, social media and some new technology, find an 
 
 All backed up by [data](/content-data-models).
 
-> Want a taste of the kind of thing I can come up with? Check out my Beer for an Idea service, 
+> Want a taste of the kind of thing I can come up with? Check out my [Beer for an Idea](/beer-for-an-idea) service, 
 
 ## A bit of namedropping
 
@@ -27,4 +27,3 @@ Campaigns I've crafted have appeared in these places, without a penny changing h
 Won some awards too (although take these pince of salt) - personal fave, different awards.
 
 ![awards]({{site.baseurl}}/assets/vs-awards.gif)
-
