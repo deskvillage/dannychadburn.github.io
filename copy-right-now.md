@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quick Turnaround Copywriting | Copy Right Now | Tidy Swan
+published: true
+---
+
 # Copy Right Now
 
 You've got a deadline, your boss is breathing down your neck. You need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your creative juices have stopped flowing, or your regular copywriter has gone AWOL.
