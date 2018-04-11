@@ -5,7 +5,7 @@ published: true
 ---
 # Small is beautiful
 
-Headlines, taglines, straplines, subject lines, bylines - the only thing I can't help you out with is your waistline.
+> Headlines, taglines, straplines, subject lines, bylines - the only thing I can't help you out with is your waistline.
 
 And the best thing? I'll always meet your deadlines.
 
@@ -28,7 +28,7 @@ I work with companies redeveloping their brand voice, pushing out a new product 
 
 Every project is unique, but four weeks is usually enough time to properly research your market, get to know your business, work through the various options, then produce an output that will hit the mark with your audience.
 
-> Need something in a hurry? Check out my [Copy Right Now](/copy-right-now) service, which offers 24h, 72h or 1 week options (depending on how desperate you are).
+> **Need something in a hurry?** Check out my [Copy Right Now](/copy-right-now) service, which offers 24h or 72h options (depending on how desperate you are).
 
 ## Guided by SEO, but never blinded by it
 
