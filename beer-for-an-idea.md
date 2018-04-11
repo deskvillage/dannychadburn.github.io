@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beer for an Idea
+title: Beer for an Idea | Tidy Swan
 published: true
 ---
 
