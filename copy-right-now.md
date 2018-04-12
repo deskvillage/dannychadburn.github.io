@@ -16,7 +16,20 @@ Sorry! Select one of the options below, pay up front, then we can crack on.
 
 ### Pricelist
 
-INSERT PRICES AND STRIPE
+<form action="http://formspree.io/hello@tidyswan.com" method="POST">
+  <label for="name"><b>Name</b></label>
+    <input type="text" id="name" name="name" class="full-width">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_live_TtBgzA3IQJoLn5aKkeS37Moq"
+    data-amount="2500"
+    data-name="Tidy Swan"
+    data-description="Widget"
+    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    data-locale="auto"
+    data-currency="gbp">
+  </script>
+</form>
 
 ## Money back guarentee
 
