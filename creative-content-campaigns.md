@@ -16,7 +16,7 @@ Blend best of marketing, SEO, PR, social media and some new technology, find an 
 
 All backed up by [data](/content-data-models).
 
-> Want a taste of the kind of thing I can come up with? Check out my [Beer for an Idea](/beer-for-an-idea) service, 
+> Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service, 
 
 ## A bit of namedropping
 
