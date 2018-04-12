@@ -19,12 +19,16 @@ Sorry! Select one of the options below, pay up front, then we can crack on.
 <form action="http://formspree.io/hello@tidyswan.com" method="POST">
   <label for="name"><b>Name</b></label>
     <input type="text" id="name" name="name" class="full-width">
+  <label for="email"><b>Email</b></label>
+    <input type="email" id="email" name="_replyto" class="full-width">
+  <label for="message"><b>Describe what you want</b></label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea>
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="pk_live_TtBgzA3IQJoLn5aKkeS37Moq"
-    data-amount="2500"
+    data-amount="99"
     data-name="Tidy Swan"
-    data-description="Widget"
+    data-description="Copy Right Now"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
     data-locale="auto"
     data-currency="gbp">
