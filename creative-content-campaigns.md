@@ -22,8 +22,10 @@ All backed up by [data](/content-data-models).
 
 Campaigns I've crafted have appeared in these places, without a penny changing hands.
 
+ADD IN SOME LOGOS
+
 ### And some accolades
 
 Won some awards too (although take these pince of salt) - personal fave, different awards.
 
-![awards]({{site.baseurl}}/assets/vs-awards.gif)
+ADD IN SOME LOGOS
