@@ -4,8 +4,12 @@ title: Contact | Tidy Swan
 published: true
 ---
 
+
+
 <div id="contact">
-  <h1>Give me a shout</h1>
+ 
+  <h1 class="pageTitle">Get in touch</h1>
+  
   <div class="contactContent">
     <p>If it's urgent, you can call (or text) 07720057767 - leave a message if I don't pick up.</p> 
     <p>If you'd prefer to use a contact form, there's one here.</p>
@@ -13,19 +17,18 @@ published: true
   </div>
   
   <form action="http://formspree.io/contentuk@gmail.com" method="POST">
-    <label for="name">Name</label>
+    <label for="name"><b>Name</b></label>
     <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
+    <label for="email"><b>Email Address</b></label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="service">What service are you after?</label>
+    <label for="service"><b>What service are you after?</b></label>
     <input type="radio" name="service" value="male"> Copy creation<br>
     <input type="radio" name="service" value="male"> Creative content planning<br>
     <input type="radio" name="service" value="female"> Content structure support<br>
     <input type="radio" name="service" value="other"> Content data modelling
-    <label for="sample">Would you like a work sample?</label>
-    <input type="checkbox" name="sample" value="sample" checked> Yes please!
-    <label for="message">Message</label>
+    <label for="message"><b>Message</b></label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <input type="checkbox" name="sample" value="sample" checked> Request a work sample <br>
     <input type="submit" value="Send" class="button">
   </form>
 </div>
