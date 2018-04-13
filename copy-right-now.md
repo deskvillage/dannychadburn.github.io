@@ -4,37 +4,27 @@ title: Quick Turnaround Copywriting | Copy Right Now | Tidy Swan
 published: true
 ---
 
-# Copy Right Now
 
-You've got a deadline, your boss is breathing down your neck. You need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your creative juices have stopped flowing, or your regular copywriter has gone AWOL.
-
-Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 and 20 words) that works. You'll get three, unique variations, which you can either use verbatim or iterate on as necessary.
-
-## Cut the waffle, it's urgent
-
-Sorry! Select one of the options below, pay up front, then we can crack on.
-
-### Pricelist
-
-<form action="http://formspree.io/hello@tidyswan.com" method="POST">
-  <label for="name"><b>Name</b></label>
-    <input type="text" id="name" name="name" class="full-width">
-  <label for="email"><b>Email</b></label>
-    <input type="email" id="email" name="_replyto" class="full-width">
-  <label for="message"><b>Describe what you want</b></label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea>
-  <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_live_TtBgzA3IQJoLn5aKkeS37Moq"
-    data-amount="99"
-    data-name="Tidy Swan"
-    data-description="Copy Right Now"
-    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-    data-locale="auto"
-    data-currency="gbp">
-  </script>
-</form>
-
-## Money back guarentee
-
-Not got what you were hoping for? As long as your reasons are reasonable and you don;t go off any use the work
+<div id="contact">
+  <h1 class="pageTitle">Copy Right Now</h1>
+  <div class="contactContent">
+    <p class="intro">You've got a deadline, you need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your copywriter has gone AWOL.</p>
+    <p>Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 and 20 words) that works. You get three ready-to-use unique variations, in the timeframe you need them.</p>
+  </div>
+  <h3>Place an order</h3>
+  <form action="http://formspree.io/hello@tidyswan.com" method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" class="full-width"><br>
+    <label for="email">Email</label>
+    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <label for="turnaround">Turnaround time (cost)</label>
+    <input type="radio" name="turnaround" value="24h" checked> 24h (£80)
+    <input type="radio" name="turnaround" value="48h"> 48h (£60)
+    <input type="radio" name="turnaround" value="72h"> 24h (£40)<br>
+    <label for="chr">Charachter count</label>
+    <textarea name="chr" id="chr" cols="5" rows="1" class="full-width" placeholder="Max. 100"></textarea><br>
+    <label for="message">What copy do you need?</label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width" placeholder="Add a link to the relevant page(s) plus any extra useful info on tone and intended conversion."></textarea><br>
+    <input type="submit" value="Send" class="button">
+  </form>
+</div>
