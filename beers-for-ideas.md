@@ -25,9 +25,8 @@ published: true
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email"><h4>Email</h4></label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <textarea name="chr" id="chr" cols="5" rows="1" class="full-width" placeholder="Max. 100"></textarea><br>
-    <label for="message">What are you after?</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width" placeholder="Describe your comany, the situation and what kind of content idea you're after (ie, a social media campaign, or a useful new resource to attract new users. Include a link to any relevant areas of your site, plus any extra infromation you think I'll find useful."></textarea><br>
+    <label for="message"><h4>What are you after?</h4></label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width" placeholder="Describe your company and what kind of content idea you're after (ie, a social media campaign, or a useful new resource to attract new users). Include a link to any relevant areas of your website, plus any extra infromation you think I'll find useful."></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
 </div>
