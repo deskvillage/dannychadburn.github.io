@@ -13,18 +13,16 @@ published: true
   </div>
   <h3>Place an order</h3>
   <form action="http://formspree.io/hello@tidyswan.com" method="POST">
-    <label for="name">Name</label>
+    <label for="name"><h4>Name</h4></label>
     <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email</label>
+    <label for="email"><h4>Email</h4></label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="turnaround">Turnaround time (cost)</label>
+    <label for="turnaround"><h4>Turnaround time (cost)</h4></label>
     <input type="radio" name="turnaround" value="24h" checked> 24h (£80)
     <input type="radio" name="turnaround" value="48h"> 48h (£60)
     <input type="radio" name="turnaround" value="72h"> 24h (£40)<br>
-    <label for="chr">Charachter count</label>
-    <textarea name="chr" id="chr" cols="5" rows="1" class="full-width" placeholder="Max. 100"></textarea><br>
-    <label for="message">What copy do you need?</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width" placeholder="Add a link to the relevant page(s) plus any extra useful info on tone and intended conversion."></textarea><br>
+    <label for="message"><h4>What copy do you need?</h4></label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width" placeholder="State your ideal word or character count. Add a link to the relevant page(s) where this copy will be used. Include examples of your company tone of voice or link to your brand guidelines."></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
 </div>
