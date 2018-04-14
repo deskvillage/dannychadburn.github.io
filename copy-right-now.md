@@ -13,10 +13,10 @@ Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 an
 ## Pricing
 
 | Hours turnaround | Cost |
-|------------------|------|
-| 24               | £80  |
-| 48               | £60  |
-| 72               | £50  |
+|:----------------:|:----:|
+|        24        |  £80 |
+|        48        |  £60 |
+|        72        |  £50 |
 
 ## Place an order
 
