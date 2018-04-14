@@ -7,8 +7,7 @@ published: true
 <div id="contact">
   <h1 class="pageTitle">Get in touch</h1>
   <div class="contactContent">
-    <p class="intro">If it's urgent, you can call (or text) 07720057767 - leave a message if I don't pick up.</p>
-    <p>If you'd prefer to use a contact form, there's one here.</p>
+    <p class="intro">If it's urgent, you can call (or text) 07720057767 - alternatively, send a message via the contact form and I'll get back to you as soon as possible.</p>
     <p>And don't forget about my <a href="/copy-right-now">Copy Right Now</a> and <a href="/beer-for-ideas">Beers for Ideas</a> services.</p>
   </div>
   <form action="http://formspree.io/contentuk@gmail.com" method="POST">
