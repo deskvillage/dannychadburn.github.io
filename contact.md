@@ -11,7 +11,7 @@ published: true
     <p>If you'd prefer to use a contact form, there's one here.</p>
     <p>And don't forget about my <a href="/copy-right-now">Copy Right Now</a> and <a href="/beer-for-ideas">Beers for Ideas</a> services.</p>
   </div>
-  <form action="http://formspree.io/hello@tidyswan.com" method="POST">
+  <form action="http://formspree.io/contentuk@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
