@@ -4,24 +4,24 @@ title: 'Tidy Swan | Content, Copy and Much More'
 published: true
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Content, just the way you like it</h1>
-  
-  <p class="intro">This is a pretty ace introduction</p>
-  <h2>Specialist in microcopy</h2>
-  <p>Good copywriting is good. Here is <a href="/headline-copy">my page</a> about it.</p>
-  <h3>Copy Right Now</h3>
-<p>Need copy in a hurry? Yeah, <a href="/copy-right-now">I can do that</a>.</p>
-  <a href="/copy-right-now">
-  <img src="/assets/img/copy-right-now.png" alt="Beers for Ideas">
-</a>
-  <h2>I also do creative stuff, structure and data</h2>
-<p>Links to those pages are here, here and here.</p>
-<h3>Beers for Ideas</h3>
-<p>You buy me beer, I'll send you a great idea. Seems like, <a href="/beers-for-ideas">a fair trade</a> don't you think?</p>
-<a href="/beers-for-ideas">
-  <img src="/assets/img/beers-for-ideas.png" alt="Beers for Ideas">
-</a>
+
+# Content, just the way you like it
+
+This is a pretty ace introduction.
+
+## Specialist in microcopy
+
+Good copywriting is good. Here is my page about it.
+
+> Copy Right Now - Need copy in a hurry? Yeah, I can do that
+
+## I also do creative stuff, structure and data
+
+Links to those pages are here, here and here.
+
+> Beers for Ideas - You buy me beer, I'll send you a great idea. Seems like, a fair trade don't you think?
+
+<div>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
