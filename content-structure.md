@@ -7,7 +7,7 @@ published: true
 
 #### Forget the elaborate mind maps and intricate venn diagrams - I offer a practical solution to delivering better digital content.
 
-My ability to define and deliver exceptional **Information Architecture** for clients stems from my vast experience in content strategy, combined with a bit of inherited knowledge from the SEO and UX experts I've been lucky enough to work with.
+My ability to define and deliver exceptional Information Architecture stems from my vast experience in content strategy, combined with a bit of inherited knowledge from the SEO and UX experts I've been lucky enough to work with.
 
 I can make sure your audience knows what content you have to offer, and help them to find it.
 
