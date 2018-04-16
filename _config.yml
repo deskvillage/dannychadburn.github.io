@@ -16,10 +16,10 @@ navigation:
    url: /index.html
  - title: Copy
    url: /headline-copy
- - title: Creative
-   url: /creative-content-campaigns
  - title: Structure
    url: /content-structure
+ - title: Creative
+   url: /creative-content-campaigns
  - title: Data
    url: /content-data-models
  - title: About
