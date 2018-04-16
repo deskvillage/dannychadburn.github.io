@@ -38,4 +38,4 @@ Google is a clever little fella; certainly a lot more intelligent than it used t
 
 That means much more flexibility in what to write to attract attention. I still pay heed to search best practices, stretching the boundaries of creativity to make sure it resonates with people as well as crawlers.
 
-Request some [samples of my work](/contact).
+Take a look at some [samples of my work](/about).
