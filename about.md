@@ -4,24 +4,28 @@ title: 'This is the Meta Page Title '
 published: true
 ---
 
-<div class="post">
-	<h1 class="pageTitle">This is the headline you see on the page</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Here lie the features:</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+# Hi, I'm Danny
 
-  
-</div>
+Worked for big companies, startups, charities, government organisations, etc
+
+The reason I freelance is because I love to travel. Seeing the world is an education that helps me deliver better work. Live just outside of Brighton, but blah, blah, blah..
+
+## A few interesting facts
+
+80% of the following facts are true - [get in touch](/contact) if you want to find out which is the little white lie.
+
+- My second cousin is snooker legend Stephen Hendry
+- I got stuck in a lift with Rowan Atkinson for 25 minutes at BBC Television Centre
+- I've completed two marathons, with a PB of 3 hours 43 minutes
+- I appeared as an extra in Oscar-winning movie _Gladiator_
+- I suffered a heart attack at the age of 23 (bout have since made a full revovery)
+
+## Why Tidy Swan?
+
+When I took the freelance leap, I opted for a trading name after growing tired of phonetically spelling my own surname for the past few decades.
+
+I mashed together a list of two-syllable adjectives with various words that rhyme with .com, then ran them through a domain name checker.
+
+tidyswan.com jumped out of the pack, with the added benefit of 'tidy' being slang for good or nice in my birthplace of Wales.
+
+> Want help coming up with your own brilliant company name or tagline? Check out my [microcopy](/headline-copy) services.
