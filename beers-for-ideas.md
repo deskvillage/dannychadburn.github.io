@@ -16,7 +16,7 @@ You've come to the right place.
 
 ## A little more lubrication, a little more action
 
-Ideas are delivered in **3 days** and the exchange rate is a one month [flavourly.com Craft Beer Club](http://flavourly.com/DANNYKZXW) subscription - **£25** (approx. $36 or €29).
+Ideas are delivered in **3 days** and the exchange rate is a one month [flavourly.com Craft Beer Club](https://www.flavourly.com/beer/club/) subscription - **£25** (approx. $36 or €29).
 
 For that you will get:
 
