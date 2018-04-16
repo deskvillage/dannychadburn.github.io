@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Structure and Architecture | Tidy Swan
+title: Content Structure and Information Architecture | Tidy Swan
 published: true
 ---
 # Content that's built to last
