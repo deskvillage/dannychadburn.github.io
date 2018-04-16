@@ -6,7 +6,7 @@ published: true
 
 # Taking exception to the norm
 
-> There's no such thing as a template for a perfect content campaign. If there was, both the industry and the internet would be a pretty dull place.
+#### There's no such thing as a template for a perfect content campaign. If there was, both the industry and the internet would be a pretty dull place.
 
 So while there is a basic process I follow (plan, produce, publish, promote), every campaign I craft is as individual as the companies I create them for.
 
