@@ -15,7 +15,7 @@ I can make sure your audience knows what content you have to offer, and help the
 
 There's a lot to factor in when adapting your existing content setup. Hierarchies, structures, redirects, metadata, [microcopy](/headline-copy), workflows and tracking - it's no wonder content migration and domain consolidation projects have a habit of dragging on ad infinitum.
 
-I pride myself on the efficiency of my approach. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
+My approach is rooted in efficiency. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
 
 It's as meticulous as you'll get from any other agency or freelancer, but you won't still be paying me this time next year.
 
