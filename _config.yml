@@ -12,8 +12,6 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Content Services
-   url: /index.html
  - title: Copy
    url: /headline-copy
  - title: Structure
