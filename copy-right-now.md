@@ -14,13 +14,11 @@ Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 an
 
 Click the relevant button below to launch the order form - payment is taken up front and the countdown begins as soon as the funds land in my account.
 
-| Hours turnaround | Cost |
-|:----------------:|:----:|
-|        24        |  <button class="button">£80</button> |
-|        72        |  <button class="button">£60</button> |
+| Copy in 24 hours | <button class="button">£80</button> |
+| Copy in 72 hours | <button class="button">£60</button> |
 
-If you need to discuss anything that wasn't possible to include within the order form, or you want to change any details, please [get in touch](/contact).
+If you need to discuss anything that wasn't possible to add to the order form, or you want to change any details, please [get in touch](/contact).
 
 ### Money back guarentee
 
-There may be the very odd and rare occassion where what I provide doesn't exactly hit the nail on the head. Never matter. So long as you have a legit reason for not liking my efforts and you're not planning on using them, I'll happily arrange a refund.
+There may be the very rare occassion where what I provide doesn't exactly hit the nail on the head. Never matter. So long as you have a legit reason for not liking my efforts and you're not planning on using them, I'll happily arrange a refund.
