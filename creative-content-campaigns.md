@@ -4,28 +4,45 @@ title: Creative Content Campaigns | Tidy Swan
 published: true
 ---
 
-# Thinking outside the dodecahedron
+# Taking exception to the norm
 
-> There's such thing as a template for perfect content campaign. If there was, industry would be a pretty dull place.
+> There's no such thing as a template for a perfect content campaign. If there was, both the industry and the internet would be a pretty dull place.
 
-So while there is a basic process I follow (planning, production, promotion), every campaign I craft is as individual as the companies I've created them for.
+So while there is a basic process I follow (plan, produce, publish, promote), every campaign I craft is as individual as the companies I create them for.
 
 ## A conveyor belt of creativity
 
-Blend best of marketing, SEO, PR, social media and some new technology, find an audience hook then crack on.
+I'd be lying if I said everything I've ever worked on has been a runaway success, however I do have an impressive hit rate of getting it right.
 
-All backed up by [data](/content-data-models).
+That's because I blend the best of content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll help you find the right hook to deliver on your objectives.
 
-> Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service, 
+And most importantly, I make sure [data metrics](/content-data-models) are considered at every stage. You'll never be sat pondering "But what about the ROI?" once the coverage dust has settled.
 
-## A bit of namedropping
+[Give me a call](/contact) and we can discuss your project.
 
-Campaigns I've crafted have appeared in these places, without a penny changing hands.
+> Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service. Exchange creativity for craft ales.
 
-ADD IN SOME LOGOS
+## Some shameless namedropping
 
-### And some accolades
+A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and many more).
 
-Won some awards too (although take these pince of salt) - personal fave, different awards.
+- Rolls Royce x Evening Standard
+- Adam & Eve x Buzzfeed
+- Patient x Fansided
+- LG x Londonist
+- Gala Bingo x The Argus
+- Blaze x the Guardian
 
-ADD IN SOME LOGOS
+Each of these has been achieved without a penny in media fees changing hands. This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
+
+### Hits from the gong
+
+While we all know industry awards are dished out whoever pays most for a table, it's always nice to get an accolade for your efforts. I've been lucky enough to quaff champagne at various events, including my personal favourite the **#DoDifferent Awards** which is "for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."
+
+- Do Different Awards
+- RAR Awards
+- Digiday Awards
+- The Drum Search Awards
+- Performance Marketing Awards
+- European Search Awards
+
