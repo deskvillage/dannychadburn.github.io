@@ -28,4 +28,4 @@ For that you will get:
 
 If you need more convincing, [check out an example idea](#).
 
-> I also offer a fully formed [creative content campaign](/creative-content-campaign) service (minus the beer).
+> I also offer a fully formed [creative content campaign](/creative-content-campaigns) service (minus the beer).
