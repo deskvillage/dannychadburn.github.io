@@ -5,7 +5,7 @@ published: true
 ---
 # Small is beautiful
 
-> Headlines, taglines, straplines, subject lines, bylines - the only thing I can't help you out with is your waistline.
+#### Headlines, taglines, straplines, subject lines, bylines - the only thing I can't help you out with is your waistline.
 
 And the best thing? I'll always meet your deadlines.
 
@@ -32,7 +32,7 @@ The first part of the process is to [arrange a coffee](/contact) so we can discu
 
 > **Need something in a hurry?** Check out my [Copy Right Now](/copy-right-now) service, which offers 24h or 72h turnaround (depending on how desperate you are).
 
-## Guided by SEO, but never blinded by it
+### Guided by SEO, but never blinded by it
 
 Google is a clever little fella; certainly a lot more intelligent than it used to be. With semantic search, cramming keywords into your page titles and H1 tags is no longer a necessity, and most SEO experts I talk to actively warn against.
 
