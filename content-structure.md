@@ -17,7 +17,7 @@ There's a lot to factor in when adapting your existing content setup. Hierarchie
 
 My approach is rooted in efficiency. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
 
-It's as meticulous as you'll get from any other agency or freelancer, but you won't still be paying me this time next year.
+It's as meticulous as you'll get from any agency or freelancer, but you won't still be paying me this time next year.
 
 Sound like something your business needs? [Get in touch](/contact).
 
@@ -30,8 +30,8 @@ From both in-house and agency side, the many industries I've worked across inclu
 - Recategorised over 5,000 reference pages for a site attracting 1 million visits a day
 - Managed the transition to a new CMS, guiding teams in Boston, London, Berlin and Hyderabad through the process
 - Merged six distintive microsites under a single umbrella brand domain
-- Created a wiki that reflected real-world scenarios for a global network of content creators
+- Delivered training sessions and a wiki, reflecting real-world scenarios for a global network of content creators
 
-By employing my expertise on a short-term basis, I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies who'll put most of your budget into account management.
+By [employing my expertise](/contact), I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies who'll put most of your budget into account management.
 
-> If your after more of a one-off burst of attention, I also offer [creative content campaign planning](/creative-content-campaigns) services.
+> If you're after more of an immediate attention burst, I also offer [creative content campaign planning](/creative-content-campaigns) services.
