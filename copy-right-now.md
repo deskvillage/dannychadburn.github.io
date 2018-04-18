@@ -6,7 +6,7 @@ published: true
 
 # Copy Right Now
 
-#### You've got a deadline, you need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your copywriter has gone AWOL.
+#### You've got a deadline, you need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your copywriter has gone AWOL, and your creative juices have stopped flowing.
 
 Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 and 20 words) that works. You get three ready-to-use unique variations, in the timeframe you need them.
 
