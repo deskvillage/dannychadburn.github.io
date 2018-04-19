@@ -4,7 +4,7 @@ title: 'This is the Meta Page Title '
 published: true
 ---
 
-<a href="#facts">Facts</a> | <a href="#faq">FAQ</a> | <a href="#why">Why Tidy Swan?</a>
+<a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
 # Hi, I'm Danny
 
