@@ -14,18 +14,8 @@ Don't worry, that's what I'm here for. Quick turnaround micro-copy (between 2 an
 
 Click the relevant button below to launch the order form - payment is taken up front and the countdown begins as soon as the funds land in my account.
 
-<table>
-<tbody>
-<tr>
-<td>Copy in 24 hours</td>
-<td><button class="button">£80</button></td>
-</tr>
-<tr>
-<td>Copy in 72 hours</td>
-<td><button class="button">£60</button></td>
-</tr>
-</tbody>
-</table>
+<button class="button">Copy in 24 hours - <b>£80</b></button>
+<button class="button">Copy in 72 hours - <b>£60</b></button>
 
 If you need to discuss anything that wasn't possible to add to the order form, or you want to change any details, please [get in touch](/contact).
 
