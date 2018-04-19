@@ -28,31 +28,31 @@ The reason I freelance is because I love to travel. Seeing the world is an educa
 <a name="faq"></a>
 ## FAQ
 
-### Do you have a portfolio?
+#### Do you have a portfolio?
 Yes
 
-### Can I see it?
+#### Can I see it?
 Yes, but only if I can talk you through it! Viewing work examples online is like buying shoes or browsing properties - you don't know if they're for you until you see them for real.
 
 You won't be faced with a heavy sales pitch, I'd just prefer to show you things in context rather than some fabricated examples and massaged numbers I've thrown together.
 
-### Do you like beer?
+#### Do you like beer?
 I do. That's why I swap it for ideas.
 
-### What's your day rate?
+#### What's your day rate?
 Prices start at £300 a day, but could be double that depending on the nature of the project.
 
-### Do you work pro-bono?
+#### Do you work pro-bono?
 I have done, and would do again. Send me a pitch!
 
-### Do you know an expert in branding, design, UX, etc
+#### Do you know an expert in branding, design, UX, etc
 Probably! I'll hook you up.
 
-### Will you work in my country?
+#### Will you work in my country?
 Sure, if you'll cover the travel costs (and don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
 
 ---
-<a name="faq"></a>
+<a name="why"></a>
 ## Why Tidy Swan?
 
 When I took the freelance leap, I opted for a trading name after growing tired of phonetically spelling my own surname for the past few decades.
