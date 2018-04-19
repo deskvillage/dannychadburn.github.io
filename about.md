@@ -4,12 +4,16 @@ title: 'This is the Meta Page Title '
 published: true
 ---
 
+<a href="#facts">Facts</a> | <a href="#faq">FAQ</a> | <a href="#why">Why Tidy Swan?</a>
+
 # Hi, I'm Danny
 
 Worked for big companies, startups, charities, government organisations, etc
 
 The reason I freelance is because I love to travel. Seeing the world is an education that helps me deliver better work. Live just outside of Brighton, but blah, blah, blah..
 
+---
+<a name="facts"></a>
 ## A few interesting facts
 
 80% of the following facts are true - [get in touch](/contact) if you want to find out which is the little white lie.
@@ -21,7 +25,7 @@ The reason I freelance is because I love to travel. Seeing the world is an educa
 - I suffered a heart attack at the age of 23 (bout have since made a full revovery)
 
 ---
-
+<a name="faq"></a>
 ## FAQ
 
 ### Do you have a portfolio?
@@ -48,7 +52,7 @@ Probably! I'll hook you up.
 Sure, if you'll cover the travel costs (and don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
 
 ---
-
+<a name="faq"></a>
 ## Why Tidy Swan?
 
 When I took the freelance leap, I opted for a trading name after growing tired of phonetically spelling my own surname for the past few decades.
