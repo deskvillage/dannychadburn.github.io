@@ -22,3 +22,5 @@ If you need to discuss anything that wasn't possible to add to the order form, o
 ### Money back guarentee
 
 There may be the very rare occassion where what I provide doesn't exactly hit the nail on the head. Never matter. So long as you have a legit reason for not liking my efforts and you're not planning on using them, I'll happily arrange a refund.
+
+> If you have a bit more flex in your deadlines, check out my [headline copywriting](/headline-copywriting) service.
