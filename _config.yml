@@ -12,13 +12,13 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Copy
-   url: /headline-copy
- - title: Structure
+ - title: Headline Copywriting
+   url: /headline-copywriting
+ - title: Content Architecture
    url: /content-structure
- - title: Creative
+ - title: Content Marketing
    url: /creative-content-campaigns
- - title: Data
+ - title: Content Data
    url: /content-data-models
  - title: About
    url: /about
@@ -29,6 +29,6 @@ social:
    github: 
    twitter: 
    facebook: 
-   email: hello@tidyswan.com
+   email:
 
 google_analytics: "UA-25073272-6"
