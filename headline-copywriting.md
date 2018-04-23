@@ -24,7 +24,7 @@ Using the allotted space, I specialise in making every character count, whether 
 
 ## In perfect harmony
 
-I work with companies redeveloping their brand voice, pushing out new product ranges or launching a marketing campaign. Copy is pivotal to the success of any of these ventures.
+I work with companies redeveloping their brand voice, pushing out new product ranges or launching marketing campaigns. Copy is pivotal to the success of any of these ventures.
 
 Every project is unique, but four weeks is usually enough time to properly research your market, get to know your business, work through the various options, then produce an output that will hit the mark with your audience.
 
