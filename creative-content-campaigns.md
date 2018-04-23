@@ -26,12 +26,12 @@ And most importantly, I make sure [data metrics](/content-data-models) are consi
 
 A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and many more).
 
-- Rolls Royce x Evening Standard
-- Adam & Eve x Buzzfeed
-- Patient x Fansided
-- LG x Londonist
-- Gala Bingo x The Argus
-- Blaze x the Guardian
+- **Rolls Royce** x Daily Telegraph / Time Out
+- **Adam & Eve** x Buzzfeed / SPORTbible
+- **Patient** x Fansided / New York Post
+- **LG** x Londonist / Evening Standard
+- **Gala Bingo** x The Argus / Visit Exmoor
+- **Blaze** x The Guardian
 
 Each of these has been achieved without a penny in media fees changing hands. This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
 
