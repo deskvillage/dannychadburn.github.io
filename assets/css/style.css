@@ -821,16 +821,16 @@ dd{
 }
 	.header nav ul li a{
 		color:#fff;
-		font-size:.9em;
+		font-size:.7em;
 		text-decoration:none;
-		padding:0 .25em
+		padding:0.15em
 }
 	.header nav ul li a:hover{
 		color:#ccc
 }
 	.header nav ul li.current{
-		padding-bottom:.25em;
-		border-bottom:4px solid hsla(0,0%,100%,.4)
+		padding-bottom:.15em;
+		border-bottom:3px solid hsla(0,0%,100%,.4)
 }
 	.js .nav-collapse{
 		position:relative;
