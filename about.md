@@ -14,15 +14,11 @@ The reason I freelance is because I love to travel. Seeing the world is an educa
 
 ---
 <a name="facts"></a>
-## A few interesting facts
-
-80% of the following facts are true - [get in touch](/contact) if you want to find out which is the little white lie.
+## A few facts about me
 
 - My second cousin is snooker legend Stephen Hendry
-- I got stuck in a lift with Rowan Atkinson for 25 minutes at BBC Television Centre
 - I've completed two marathons, with a PB of 3 hours 43 minutes
 - I appeared as an extra in Oscar-winning movie _Gladiator_
-- I suffered a heart attack at the age of 23 (bout have since made a full revovery)
 
 ---
 <a name="faq"></a>
@@ -59,6 +55,6 @@ When I took the freelance leap, I opted for a trading name after growing tired o
 
 I mashed together a list of two-syllable adjectives with various words that rhyme with .com, then ran them through a domain name checker.
 
-tidyswan.com jumped out of the pack, with the added benefit of 'tidy' being slang for good or nice in my birthplace of Wales.
+tidyswan.com jumped out of the pack, with the added benefit of 'tidy' being slang for 'good' or 'nice' in my birthplace of Wales.
 
 > Want help coming up with your own brilliant company name or tagline? Check out my [microcopy](/headline-copy) services.
