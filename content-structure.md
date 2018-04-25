@@ -7,9 +7,11 @@ published: true
 
 #### Forget the elaborate mind maps and intricate venn diagrams - I offer a practical solution to delivering better digital content.
 
-My ability to define exceptional Information Architecture stems from my vast experience in content strategy. I've combined this with a bit of inherited knowledge from the SEO and UX experts I've been lucky enough to work with.
+My ability to define exceptional information architecture stems from my vast experience in content strategy. I've combined this with knowledge inherited from the SEO and UX experts I've been lucky enough to work with.
 
 I'll apply the right IA model to your content so your audience can discover what you have to offer.
+
+<a href="/contact"><button class="button">Call me today</button></a>
 
 ## Get organised
 
@@ -17,7 +19,7 @@ There's a lot to factor in when adapting your existing content setup. Hierarchie
 
 My approach is rooted in efficiency. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
 
-It's as meticulous as you'll get from any agency or freelancer, but you won't still be paying me this time next year.
+#### It's as meticulous as you'll get from any agency or freelancer, but you won't still be paying me this time next year.
 
 Does that sound like something your business needs?
 
