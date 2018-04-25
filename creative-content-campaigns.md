@@ -40,7 +40,7 @@ Each of these has been achieved without a penny in media fees changing hands. Th
 
 ### Hits from the gong
 
-While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts. I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
+While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts. I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
 
 - Do Different Awards
 - RAR Awards
@@ -48,3 +48,7 @@ While we all know industry awards are dished out to whoever pays most for a tabl
 - The Drum Search Awards
 - Performance Marketing Awards
 - European Search Awards
+
+Want to expand your trophy cabinet?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
