@@ -26,11 +26,11 @@ Want to discuss how I can apply my expertise to imporove your business?
 
 ## A few facts about me
 
-- I live just outside Brighton, in a village mentioned in the Domesday Book
-- I've completed two marathons, with a PB of 3 hours 43 minutes
-- I played youth football for Swindon Town FC, and was coached by future England manager Glenn Hoddle
-- I appeared as an extra in Oscar-winning movie _Gladiator_
-- I'm (distantly) related to snooker legend Stephen Hendry
+- I live just outside Brighton, in [a village](https://www.wikiwand.com/en/Hurstpierpoint) mentioned in the Domesday Book
+- I've completed the [Brighton Marathon](https://www.wikiwand.com/en/Brighton_Marathon) twice, with a PB of 3 hours 43 minutes
+- I played youth football for Swindon Town FC, receiving coaching from [Glenn Hoddle](https://www.wikiwand.com/en/Glenn_Hoddle)
+- I appeared as an extra in Oscar-winning movie [Gladiator](https://www.wikiwand.com/en/Gladiator_(2000_film))
+- I'm (distantly) related to snooker legend [Stephen Hendry](https://www.wikiwand.com/en/Stephen_Hendry)
 
 <a name="faq"></a>
 
