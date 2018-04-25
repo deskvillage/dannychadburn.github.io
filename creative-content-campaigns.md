@@ -52,8 +52,6 @@ I've been lucky enough to quaff Champagne at various events, including my person
 
 ![dodifferent.jpg]({{site.baseurl}}/assets/img/dodifferent.jpg)
 
-<div class="featuredImage"><img src="/assets/img/dodifferent.jpg" alt=""></div>
-
 - Do Different Awards
 - RAR Awards
 - Digiday Awards
