@@ -18,7 +18,7 @@ Using the allotted space, I specialise in making every character count, whether 
 - Looking to improve landing page conversion?
 - Seeking better search rankings for your products?
 - Want to increase email open rates?
-- Hoping your ad campaign gets noticed?
+- Hoping your marketing campaign gets noticed?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
