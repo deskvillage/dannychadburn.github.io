@@ -10,7 +10,7 @@ published: true
 
 #### Since the late 90s I've been working in the realm of digital marketing. Across household name companies and global agencies to government funded charities and fledgling startups, I've played a hand in billions of page views.
 
-It seemed unfair to limit all that experience to just one employer, so I'm now a freelance content consultant offering [headline writing](/headline-copywriting), [IA](/content-structure), [content marketing](/creative-content-campaigns) and [data](/content-data-models) services to companies of all shapes and sizes.
+It seemed unfair to limit all that experience to just one employer, so I'm now a freelance content consultant offering [headline writing](/headline-copywriting), [IA](/content-information-architecture), [content marketing](/creative-content-marketing) and [data](/content-campaign-analytics) services to companies of all shapes and sizes.
 
 I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I certainly took it as one. My approach is unconventional - an invaluable trait when the industry often appears to accept homogeneity and the humdrum.
 
@@ -31,6 +31,8 @@ Want to discuss how I can apply my expertise to imporove your business?
 - I played youth football for Swindon Town FC, receiving coaching from [Glenn Hoddle](https://www.wikiwand.com/en/Glenn_Hoddle)
 - I appeared as an extra in Oscar-winning movie [Gladiator](https://www.wikiwand.com/en/Gladiator_(2000_film))
 - I'm (distantly) related to snooker legend [Stephen Hendry](https://www.wikiwand.com/en/Stephen_Hendry)
+
+![Danny Chadburn]({{site.baseurl}}/assets/img/danny.png)
 
 <a name="faq"></a>
 
