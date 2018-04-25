@@ -4,7 +4,7 @@ title: Content Campaign Analytics | Campaign ROI | Tidy Swan
 published: true
 ---
 
-# Digging into the data
+# Digging into the detail
 
 #### Data is the last basion of the content industry. We all know it's important, but few businesses have developed a solid structure for establishing whether what they're doing works.
 
