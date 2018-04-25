@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creative Content Campaigns | Tidy Swan
+title: Creative Content Marketing Campaigns | Tidy Swan
 published: true
 ---
 
@@ -16,7 +16,7 @@ I'd be lying if I said everything I've ever worked on has been a runaway success
 
 That's because I blend the best of content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
 
-And most importantly, I make sure [data](/content-data-models) is considered at every stage. You'll never be sat pondering _"But what about the ROI?"_ once the coverage dust has settled.
+And most importantly, I make sure [data](/content-campaign-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
 Got a project to discuss?
 
