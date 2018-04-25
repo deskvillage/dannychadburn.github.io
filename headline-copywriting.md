@@ -20,7 +20,7 @@ Using the allotted space, I specialise in making every character count, whether 
 - Want to increase email open rates?
 - Hoping your ad campaign gets noticed?
 
-<a href="/contact"><button class="button">Then get in touch</button></a>
+<a href="/contact"><button class="button">Get in touch</button></a>
 
 ## In perfect harmony
 
