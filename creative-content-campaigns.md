@@ -38,6 +38,10 @@ A wall of logos is pointless without something to back it up. You'll be pleased 
 
 Each of these has been achieved without a penny in media fees changing hands. This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
 
+Want this kind of attention for your brand?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
+
 ### Hits from the gong
 
 While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts. I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
