@@ -6,22 +6,25 @@ published: true
 
 # Taking exception to the norm
 
-#### There's no such thing as a template for a perfect content campaign. If there was, both the industry and the internet would be a pretty dull place.
+#### There's no such thing as a template for a perfect content marketing campaign. If there was, the industry (and the internet) would be a pretty dull place.
 
-So while there is a basic process I follow (plan, produce, publish, promote), every campaign I craft is as individual as the companies I create them for.
+So while there is a basic process I follow (plan, produce, publish, promote), every campaign I craft is as individual as the <a href="#clients">companies I create them for</a>.
 
 ## A conveyor belt of creativity
 
 I'd be lying if I said everything I've ever worked on has been a runaway success, however I do have an impressive hit rate of getting it right.
 
-That's because I blend the best of content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll help you find the right hook to deliver on your objectives.
+That's because I blend the best of content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
 
-And most importantly, I make sure [data metrics](/content-data-models) are considered at every stage. You'll never be sat pondering "But what about the ROI?" once the coverage dust has settled.
+And most importantly, I make sure [data](/content-data-models) is considered at every stage. You'll never be sat pondering _"But what about the ROI?"_ once the coverage dust has settled.
 
-[Give me a call](/contact) and we can discuss your project.
+Got a project to discuss?
+
+<a href="/contact"><button class="button">Give me a call</button></a>
 
 > Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service. Exchange creativity for craft ales.
 
+<a name="clients"></a>
 ## Some shameless namedropping
 
 A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and many more).
