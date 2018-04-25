@@ -27,7 +27,7 @@ Got a project to discuss?
 <a name="clients"></a>
 ## Some shameless namedropping
 
-A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and many more).
+A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and tonnes more).
 
 - **Rolls Royce** x Daily Telegraph / Time Out
 - **Adam & Eve** x Buzzfeed / SPORTbible
