@@ -9,16 +9,16 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 0
+paginate: 2
 
 navigation:
  - title: Headline Copywriting
    url: /headline-copywriting
- - title: Content Architecture
+ - title: Site Architecture
    url: /content-structure
  - title: Content Marketing
    url: /creative-content-campaigns
- - title: Content Data
+ - title: Campaign Analytics
    url: /content-data-models
  - title: About
    url: /about
