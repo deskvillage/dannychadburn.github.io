@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'This is the Meta Page Title '
+title: About Danny Chadburn | Content Consultant | Tidy Swan
 published: true
 ---
 
@@ -8,44 +8,61 @@ published: true
 
 <a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
-Worked for big companies, startups, charities, government organisations, etc
+#### Since the late 90s I've been working in digital marketing of one form or another.  for big companies, startups, charities, government organisations, etc
 
-The reason I freelance is because I love to travel. Seeing the world is an education that helps me deliver better work. Live just outside of Brighton, but blah, blah, blah..
+It seemed unfair to limit all that experience to just one employer, so I'm now a freelance content consultant offering [headline writing](/headline-copywriting), [IA](/content-structure), [content marketing](/creative-content-campaigns) and [data](/content-data-models) services to companies of all shapes and sizes.
+
+I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I certainly took it as one. My approach is unconventional - an invaluable trait when the digital world appears to accept homogeneity and the humdrum.
+
+My inspiration comes from experiencing the world. Sometimes that's an idea sparked when on my local golf course, sometimes from an advert I've spotted at a far-flung train station.
+
+Want to discuss how I can apply my expertise to imporove your business?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
+
+<a name="facts"></a>
 
 ---
-<a name="facts"></a>
+
 ## A few facts about me
 
-- My second cousin is snooker legend Stephen Hendry
+- I live just outside Brighton, in a village mentioned in the Domesday Book
 - I've completed two marathons, with a PB of 3 hours 43 minutes
+- I played youth football for Swindon Town FC, and was coached by future England manager Glenn Hoddle
 - I appeared as an extra in Oscar-winning movie _Gladiator_
+- I'm (distantly) related to snooker legend Stephen Hendry
+
+<a name="faq"></a>
 
 ---
-<a name="faq"></a>
+
 ## FAQ
 
 #### Do you have a portfolio?
-Yes
+Yes.
 
 #### Can I see it?
-Yes, but only if I can talk you through it! Viewing work examples online is like buying shoes or browsing properties - you don't know if they're for you until you see them for real.
+Yes, but only if I can [talk you through it](/contact). Viewing work examples online is like buying shoes or browsing properties - you don't know if they're for you until you see them in the flesh.
 
 You won't be faced with a heavy sales pitch, I'd just prefer to show you things in context rather than some fabricated examples and massaged numbers I've thrown together.
 
-#### Do you like beer?
-I do. That's why I swap it for ideas.
+### Do you specialise in a particular industry?
+No - I have a penchant for technology and sport, but I've plied my trade in prety much every market from agriculture to zoology.
+
+### Do you write articles or longer form content?
+I can (and do), although I specialise in [headline copywriting](/headline-copywriting). 
 
 #### What's your day rate?
 Prices start at £300 a day, but could be double that depending on the nature of the project.
 
 #### Do you work pro-bono?
-I have done, and would do again. Send me a pitch!
+I have done, and would do again for the right cause. [Send me a pitch](/contact)!
 
-#### Do you know an expert in branding, design, UX, etc
-Probably! I'll hook you up.
+#### Do you know an expert in branding, design, SEO, UX, etc
+Probably! [Give me a shout](/contact) and I'll try and hook you up with a talented individual.
 
-#### Will you work in my country?
-Sure, if you'll cover the travel costs (and don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
+#### Will you work in my city / country?
+Sure, if you'll cover the travel costs (don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
 
 ---
 <a name="why"></a>
@@ -55,6 +72,6 @@ When I took the freelance leap, I opted for a trading name after growing tired o
 
 I mashed together a list of two-syllable adjectives with various words that rhyme with .com, then ran them through a domain name checker.
 
-tidyswan.com jumped out of the pack, with the added benefit of 'tidy' being slang for 'good' or 'nice' in my birthplace of Wales.
+[tidyswan.com](/index) jumped out of the pack, with the added benefit of 'tidy' being slang for 'good' or 'nice' in my birthplace of Wales.
 
 > Want help coming up with your own brilliant company name or tagline? Check out my [microcopy](/headline-copy) services.
