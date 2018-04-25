@@ -16,7 +16,7 @@ Need an fresh content idea to pitch to a client? Seeking an inventive way of adv
 
 ## A little more lubrication, a little more traction
 
-Ideas are delivered within **72 days** and the exchange rate is **£25** (approx. $36 or €29) - the cost of a one month [flavourly.com Craft Beer Club](https://www.flavourly.com/beer/club/) subscription.
+Ideas are delivered within **72 days** and the exchange rate is **£25** (approx. $36 or €29) - the cost of a one month [Craft Beer Club](https://www.flavourly.com/beer/club/) subscription.
 
 For that you will get:
 
