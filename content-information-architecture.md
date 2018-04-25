@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Content Structure and Information Architecture | Tidy Swan
+title: Content Information Architecture | Tidy Swan
 published: true
 ---
 # Content that's built to last
 
-#### Forget the elaborate mind maps and intricate venn diagrams - I offer a practical solution to delivering better digital content.
+#### Forget the elaborate mind maps and intricate venn diagrams - I offer practical solutions to improving content structure.
 
 My ability to define exceptional information architecture stems from my vast experience in content strategy. I've combined this with knowledge inherited from the SEO and UX experts I've been lucky enough to work with.
 
@@ -15,7 +15,7 @@ I'll apply the right IA model to your content so your audience can discover what
 
 ## Get organised
 
-There's a lot to factor in when adapting your existing content setup. Hierarchies, structures, redirects, metadata, [microcopy](/headline-copy), workflows and tracking - it's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
+There's a lot to factor in when adapting your existing content setup. Hierarchies, structures, redirects, metadata, [microcopy](/headline-copywriting), workflows and tracking - it's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
 
 My approach is rooted in efficiency. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
 
@@ -38,4 +38,4 @@ From both in-house and agency side, the many industries I've worked across inclu
 
 By [employing my expertise](/contact), I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies.
 
-> If you're after more of an immediate attention burst, I also offer [creative content campaign planning](/creative-content-campaigns) services.
+> If you're after more of an immediate attention burst, I also offer [creative content campaign planning](/creative-content-marketing) services.
