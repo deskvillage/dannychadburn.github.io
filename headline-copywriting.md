@@ -22,6 +22,8 @@ Using the allotted space, I specialise in making every character count, whether 
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
+> **Need something in a hurry?** Check out my [Copy Right Now](/copy-right-now) service, which offers 24h or 72h turnaround (depending on how desperate you are).
+
 ## In perfect harmony
 
 I work with companies redeveloping their brand voice, pushing out new product ranges or launching marketing campaigns. Copy is pivotal to the success of any of these ventures.
@@ -29,8 +31,6 @@ I work with companies redeveloping their brand voice, pushing out new product ra
 Every project is unique, but four weeks is usually enough time to properly research your market, get to know your business, work through the various options, then produce an output that will hit the mark with your audience.
 
 The first part of the process is to [arrange a coffee](/contact) so we can discuss your project.
-
-> **Need something in a hurry?** Check out my [Copy Right Now](/copy-right-now) service, which offers 24h or 72h turnaround (depending on how desperate you are).
 
 ### Guided by SEO, but never blinded by it
 
