@@ -50,7 +50,7 @@ While we all know industry awards are dished out to whoever pays most for a tabl
 
 I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
 
-![dodifferent.jpg]({{site.baseurl}}/assets/img/dodifferent.jpg)
+![Do Different Awards]({{site.baseurl}}/assets/img/dodifferent.jpg)
 
 - Do Different Awards
 - RAR Awards
