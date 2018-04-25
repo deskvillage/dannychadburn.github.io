@@ -6,7 +6,7 @@ published: true
 
 # Get in touch
 
-#### If it's urgent, you can call (or text) +447720057767.
+#### If it's urgent, you can call (or text) <a href="tel:+447720057767">07720 057767</a>.
 
 Alternativey, email [hello@tidyswan.com](mailto:hello@tidyswan.com) with details of the kind of content support you're after.
 
