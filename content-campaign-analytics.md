@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Data Models | Campaign ROI | Tidy Swan
+title: Content Campaign Analytics | Campaign ROI | Tidy Swan
 published: true
 ---
 
@@ -8,7 +8,7 @@ published: true
 
 #### Data is the last basion of the content industry. We all know it's important, but few businesses have developed a solid structure for establishing whether what they're doing works.
 
-When you've managed as many [content campaigns](/creative-content-campaigns) as I have, you're bound to pick up knowledge of how to report on success.
+When you've managed as many [content campaigns](/creative-content-marketing) as I have, you're bound to pick up knowledge of how to report on success.
 
 I help businesses get clarity with data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients and your big bosses.
 
