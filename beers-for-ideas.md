@@ -10,13 +10,13 @@ published: true
 
 Rather than letting them go to waste, I can send you an idea tailored for your company, in exchange for some delicious craft brews.
 
-Need an exciting content idea to pitch to a client? Seeking an inventive way of advertising your new product? Trying to get your startup in the eyes of potential customers? Off to a job interview and want to differentiate yourself?
+Need an fresh content idea to pitch to a client? Seeking an inventive way of advertising your new product? Trying to get your startup in the eyes of potential customers? Off to a job interview and want to differentiate yourself?
 
-You've come to the right place.
+<button class="button">Order an idea today</button>
 
-## A little more lubrication, a little more action
+## A little more lubrication, a little more traction
 
-Ideas are delivered in **3 days** and the exchange rate is a one month [flavourly.com Craft Beer Club](https://www.flavourly.com/beer/club/) subscription - **£25** (approx. $36 or €29).
+Ideas are delivered within **72 days** and the exchange rate is **£25** (approx. $36 or €29) - the cost of a one month [flavourly.com Craft Beer Club](https://www.flavourly.com/beer/club/) subscription.
 
 For that you will get:
 
@@ -28,4 +28,4 @@ For that you will get:
 
 If you need more convincing, [check out an example idea](#).
 
-> I also offer a fully formed [creative content campaign](/creative-content-campaigns) service (minus the beer).
+> I also offer a fully formed [creative content campaign](/creative-content-marketing) service (minus the beer).
