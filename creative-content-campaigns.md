@@ -27,7 +27,7 @@ Got a project to discuss?
 <a name="clients"></a>
 ## Some shameless namedropping
 
-A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell and impressive stats to share about each of the branded campaigns listed below (and tonnes more).
+A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell (and impressive stats to share) about each of the branded campaigns listed below (and tonnes more).
 
 - **Rolls Royce** x Daily Telegraph / Time Out
 - **Adam & Eve** x Buzzfeed / SPORTbible
@@ -36,7 +36,9 @@ A wall of logos is pointless without something to back it up. You'll be pleased 
 - **Gala Bingo** x The Argus / Visit Exmoor
 - **Blaze** x The Guardian
 
-Each of these has been achieved without a penny in media fees changing hands. This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
+#### Each of these has been achieved without a penny in media fees changing hands.
+
+This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
 
 Want this kind of attention for your brand?
 
@@ -44,7 +46,9 @@ Want this kind of attention for your brand?
 
 ### Hits from the gong
 
-While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts. I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
+While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts.
+
+I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
 
 - Do Different Awards
 - RAR Awards
