@@ -8,13 +8,13 @@ published: true
 
 <a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
-#### Since the late 90s I've been working in digital marketing of one form or another.  for big companies, startups, charities, government organisations, etc
+#### Since the late 90s I've been working in the realm of digital marketing. From household name companies to government funded charities and fledgling startups, I've played a hand in billions of page views.
 
 It seemed unfair to limit all that experience to just one employer, so I'm now a freelance content consultant offering [headline writing](/headline-copywriting), [IA](/content-structure), [content marketing](/creative-content-campaigns) and [data](/content-data-models) services to companies of all shapes and sizes.
 
-I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I certainly took it as one. My approach is unconventional - an invaluable trait when the digital world appears to accept homogeneity and the humdrum.
+I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I certainly took it as one. My approach is unconventional - an invaluable trait when the industry often appears to accept homogeneity and the humdrum.
 
-My inspiration comes from experiencing the world. Sometimes that's an idea sparked when on my local golf course, sometimes from an advert I've spotted at a far-flung train station.
+My inspiration comes from life experiences. Sometimes that's an idea sparked when on my local golf course, sometimes from an advert I've spotted at a far-flung train station.
 
 Want to discuss how I can apply my expertise to imporove your business?
 
