@@ -8,7 +8,9 @@ published: true
 
 #### Data is the last basion of the content industry. We all know it's important, but few businesses have developed a solid structure for establishing whether what they're doing works.
 
-When you've looked after as many [content campaigns](/creative-content-campaigns) as I have, you're bound to pick up knowledge of how to report on their success. I help businesses develop data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients or your big bosses.
+When you've managed as many [content campaigns](/creative-content-campaigns) as I have, you're bound to pick up knowledge of how to report on success.
+
+I help businesses get clarity with data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients and your big bosses.
 
 This isn't about yet another expensive tool or ripping up what you're doing - it's about a better, move valuable interpretation of data you're probably already collecting.
 
