@@ -25,6 +25,7 @@ Got a project to discuss?
 > Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service. Exchange creativity for craft ales.
 
 <a name="clients"></a>
+
 ## Some shameless namedropping
 
 A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell (and impressive stats to share) about each of the branded campaigns listed below (and tonnes more).
