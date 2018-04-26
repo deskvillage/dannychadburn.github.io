@@ -20,9 +20,9 @@ If any of these services take your fancy, you can [contact me](/contact) via [he
 
 ## What else?
 
-> Copy Right Now - need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole. <a href="/copy-right-now"><button class="button">Find out more</button></a>
+> **[Copy Right Now](/copy-right-now)** <br />Need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole.
 
-> **[Beers for Ideas](/beer-for-ideas)** - You buy me beer, I'll send you a great idea. Seems like, a fair trade don't you think?
+> **[Beers for Ideas](/beer-for-ideas)** <br />You buy me some beer, I'll send you a great idea. Seems like, a fair trade.
 
 <div>
   <ul class="posts noList">
