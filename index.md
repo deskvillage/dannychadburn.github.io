@@ -5,21 +5,24 @@ published: true
 ---
 
 
-# Content, just the way you like it
+# Content, as it should be
 
-This is a pretty ace introduction.
+#### I'm Danny, a freelance copywriter and content consultant for Brighton.
 
-## Specialist in microcopy
+But enough [about me](/about), this is what I can do for you:
 
-Good copywriting is good. Here is my page about it.
+- **[Headline Copywriting](/headline-copywriting)** - succinct messages for companies who need to attract attention
+- **[Information Architecture](/content-information-architecture)** - putting content for big websites in a better structure
+- **[Content Marketing](/creative-content-marketing)** - planning award-winning creative campaigns for companies and agencies
+- **[Campaign Analytics](/content-campaign-analytics)** - data dashboards and frameworks that offer clear insight
 
-> Copy Right Now - Need copy in a hurry? Yeah, I can do that
+If any of these services take your fancy, you can [contact me](/contact) via [hello@tidyswan.com](mailto:hello@tidyswan.com) or on <a href="tel:+447720057767">07720 057767</a>.
 
-## I also do creative stuff, structure and data
+## What else?
 
-Links to those pages are here, here and here.
+> Copy Right Now - need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole. <a href="/copy-right-now"><button class="button">Find out more</button></a>
 
-> Beers for Ideas - You buy me beer, I'll send you a great idea. Seems like, a fair trade don't you think?
+> **[Beers for Ideas](/beer-for-ideas)** - You buy me beer, I'll send you a great idea. Seems like, a fair trade don't you think?
 
 <div>
   <ul class="posts noList">
