@@ -30,10 +30,10 @@ Got a project to discuss?
 
 A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell (and impressive stats to share) about each of the branded campaigns listed below (and tonnes more).
 
-- **Rolls Royce** x Daily Telegraph / Time Out
+- **Rolls Royce** x Time Out
 - **Adam & Eve** x Buzzfeed / SPORTbible
 - **Patient** x Fansided / New York Post
-- **LG** x Londonist / Evening Standard
+- **LG** x Londonist
 - **Gala Bingo** x The Argus / Visit Exmoor
 - **Blaze** x The Guardian
 
