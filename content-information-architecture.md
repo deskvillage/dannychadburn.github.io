@@ -9,7 +9,7 @@ published: true
 
 My ability to define exceptional information architecture stems from my vast experience in content strategy. I've combined this with knowledge inherited from the SEO and UX experts I've been lucky enough to work with.
 
-I'll apply the right IA model to your content so your audience can discover what you have to offer.
+I’ll apply the right IA model to your content, making it easier for your audience to discover what you have to offer.
 
 <a href="/contact"><button class="button">Call me today</button></a>
 
