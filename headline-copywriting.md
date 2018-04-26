@@ -11,7 +11,7 @@ And the best thing? I'll always meet your deadline.
 
 ## Brevity is an artform
 
-With 15 years experience crafting copy for every conceivable digital channel, I've honed my talents to be able to condense any content, company or campaign into a succinct snippet.
+Having crafted copy for every conceivable digital channel, I've honed my talents to be able to condense any content, company or campaign into a succinct snippet.
 
 Using the allotted space, I specialise in making every character count, whether that's within two words or 20.
 
