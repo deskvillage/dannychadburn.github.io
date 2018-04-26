@@ -22,7 +22,7 @@ If any of these services take your fancy, you can [contact me](/contact) via [he
 
 > **[Copy Right Now](/copy-right-now)** <br />Need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole.
 
-> **[Beers for Ideas](/beer-for-ideas)** <br />You buy me some beer, I'll send you a great idea. Seems like, a fair trade.
+> **[Beers for Ideas](/beer-for-ideas)** <br />You buy me some beer, I'll send you an amazing content idea. Seems like a fair trade.
 
 <div>
   <ul class="posts noList">
