@@ -52,10 +52,10 @@ You won't be faced with a heavy sales pitch, I'd just prefer to show you things 
 No - I have a penchant for technology and sport, but I've plied my trade in prety much every market from agriculture to zoology.
 
 ### Do you write articles or longer form content?
-I can (and do), although I specialise in [headline copywriting](/headline-copywriting). 
+I can (and do), although I specialise in [headline copywriting](/headline-copywriting). If you have a hankering for some editorial, [get in touch](/contact) and I'll put you in contact with an expert who can help.
 
 #### What's your day rate?
-Prices start at £300 a day, but could be double that depending on the nature of the project.
+Prices start at £300 a day, but could be double that depending on the nature of each project.
 
 #### Do you work pro-bono?
 I have done, and would do again for the right cause. [Send me a pitch](/contact)!
@@ -66,8 +66,14 @@ Probably! [Give me a shout](/contact) and I'll try and hook you up with a talent
 #### Will you work in my city / country?
 Sure, if you'll cover the travel costs (don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
 
----
+Anything else you'd like to know?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
+
 <a name="why"></a>
+
+---
+
 ## Why Tidy Swan?
 
 When I took the freelance leap, I opted for a trading name after growing tired of phonetically spelling my own surname for the past few decades.
@@ -76,4 +82,4 @@ I mashed together a list of two-syllable adjectives with various words that rhym
 
 [tidyswan.com](/index) jumped out of the pack, with the added benefit of 'tidy' being slang for 'good' or 'nice' in my birthplace of Wales.
 
-> Want help coming up with your own brilliant company name or tagline? Check out my [microcopy](/headline-copy) services.
+> Want help coming up with your own brilliant company name or tagline? Check out my [microcopy](/headline-copywriting) services.
