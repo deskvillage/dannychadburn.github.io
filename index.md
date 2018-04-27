@@ -5,9 +5,9 @@ published: true
 ---
 
 
-# Content, as it should be
+# The cure for your content
 
-#### I'm Danny, a freelance copywriter and content consultant for Brighton.
+#### I'm Danny, a freelance copywriter and content consultant from Brighton. I've honed my skills working for household name brands and boutique digital agencies, generating billions of page views.
 
 But enough [about me](/about), this is what I can do for you:
 
