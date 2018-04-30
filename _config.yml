@@ -12,14 +12,14 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Headline Copywriting
-   url: /headline-copywriting
+ - title: Performance Analytics
+   url: /content-campaign-analytics
  - title: Site Architecture
    url: /content-information-architecture
  - title: Content Marketing
    url: /creative-content-marketing
- - title: Campaign Analytics
-   url: /content-campaign-analytics
+ - title: Headline Copywriting
+   url: /headline-copywriting
  - title: About
    url: /about
  - title: Contact
