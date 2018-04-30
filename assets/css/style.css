@@ -225,6 +225,8 @@ blockquote{
 		font-size:1.5em;
 		line-height:1.45833333
 }
+  
+  blockquote, p { margin-bottom: 0px; }
 }
 .clearfix{
 	zoom:1
