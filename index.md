@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Tidy Swan | Content, Copy and Much More'
+title: 'Tidy Swan | Content, Copy, Data and IA from Danny Chadburn'
 published: true
 ---
 
