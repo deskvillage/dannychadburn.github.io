@@ -213,7 +213,12 @@ blockquote{
 	font-size:1.25em;
 	line-height:1.25;
 	padding-top: 15px;
-  border-top: 3px solid seagreen; 
+    border-top: 3px solid seagreen;
+    background-color: #eff0f0;
+    margin: 5px;
+    padding: 30px;
+    -webkit-margin-before: 30px;
+    -webkit-margin-after: 3px;
 }
 @media (min-width:43.75em){
 	blockquote{
