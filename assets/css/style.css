@@ -216,6 +216,7 @@ blockquote{
     border-top: 3px solid seagreen;
     background-color: #eff0f0;
     margin: 5px;
+    margin-bottom: 0px
     padding: 30px;
     -webkit-margin-before: 30px;
     -webkit-margin-after: 3px;
