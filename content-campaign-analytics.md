@@ -14,7 +14,7 @@ I help businesses get clarity with data frameworks and dashboards. They're quick
 
 This isn’t about yet another expensive tool or ripping up what you’re doing. It’s about a better, move valuable interpretation of data you’re already collecting.
 
-### My services come in two flavours:
+### My services come in three flavours:
 
 - **Data Walkthrough** - A four to six week consultancy where I integrate myself into your organisation. I'll compile, combine and automate various data sources into a structure that makes essential insight immediately available.
 - **Data Workshops** - A series of hands on sessions with the people across your business who need to know about data. These can be full or half day, depending on the size of your company and the complexity of your analytics setup.
