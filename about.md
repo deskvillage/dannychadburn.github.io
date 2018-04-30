@@ -10,13 +10,13 @@ published: true
 
 #### Since the late 90s I've been working in the realm of digital marketing. Across household name companies and global agencies to government funded charities and fledgling startups, I've played a hand in billions of page views.
 
-It seemed unfair to limit all that experience to just one employer, so I'm now a freelance content consultant offering [headline writing](/headline-copywriting), [IA](/content-information-architecture), [content marketing](/creative-content-marketing) and [data](/content-campaign-analytics) services to companies of all shapes and sizes.
+It seemed unfair to limit all that experience to just one employer. So I'm now a freelance content consultant offering [performance analysis](/content-campaign-analytics), [IA](/content-information-architecture), [content marketing](/creative-content-marketing) and [headline writing](/headline-copywriting) services to companies of all shapes and sizes.
 
-I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I certainly took it as one. My approach is unconventional - an invaluable trait when the industry often appears to accept homogeneity and the humdrum.
+I was once described by a manager as a maverick - it may or may not have been intended as a compliment, but I took it as one. My approach is unconventional - an invaluable trait when the industry often accepts homogeneity and the humdrum.
 
 My inspiration comes from life experiences. Sometimes that's an idea sparked when on my local golf course, sometimes from an advert I've spotted at a far-flung train station.
 
-Want to discuss how I can apply my expertise to imporove your business?
+Want to discuss how I can apply my expertise to improve your business?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
@@ -26,7 +26,7 @@ Want to discuss how I can apply my expertise to imporove your business?
 
 ## A few facts about me
 
-- I live just outside Brighton, in [a village](https://www.wikiwand.com/en/Hurstpierpoint) mentioned in the Domesday Book
+- I live in the outskirts of Brighton, in [a village](https://www.wikiwand.com/en/Hurstpierpoint) mentioned in the Domesday Book
 - I've completed the [Brighton Marathon](https://www.wikiwand.com/en/Brighton_Marathon) twice, with a PB of 3 hours 43 minutes
 - I played youth football for Swindon Town FC, receiving coaching from [Glenn Hoddle](https://www.wikiwand.com/en/Glenn_Hoddle)
 - I appeared as an extra in Oscar-winning movie [Gladiator](https://www.wikiwand.com/en/Gladiator_(2000_film))
@@ -46,10 +46,10 @@ Yes.
 #### Can I see it?
 Yes, but only if I can [talk you through it](/contact). Viewing work examples online is like buying shoes or browsing properties - you don't know if they're for you until you see them in the flesh.
 
-You won't be faced with a heavy sales pitch, I'd just prefer to show you things in context rather than some fabricated examples and massaged numbers I've thrown together.
+You won't be faced with a heavy sales pitch. But I'd prefer to show you things in context rather than some fabricated examples and massaged numbers I've thrown together.
 
 ### Do you specialise in a particular industry?
-No - I have a penchant for technology and sport, but I've plied my trade in prety much every market from agriculture to zoology.
+No. I have a penchant for technology and sport, but I've plied my trade in prety much every market from agriculture to zoology.
 
 ### Do you write articles or longer form content?
 I can (and do), although I specialise in [headline copywriting](/headline-copywriting). If you have a hankering for some editorial, [get in touch](/contact) and I'll put you in contact with an expert who can help.
