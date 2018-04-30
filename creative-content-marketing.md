@@ -49,7 +49,7 @@ Want this kind of attention for your brand?
 
 While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts.
 
-I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_ (which we happened to win).
+I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards**, _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_ (which we happened to win).
 
 ![Do Different Awards]({{site.baseurl}}/assets/img/dodifferent.jpg)
 
