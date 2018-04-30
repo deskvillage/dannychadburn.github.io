@@ -12,13 +12,13 @@ When you've managed as many [content campaigns](/creative-content-marketing) as 
 
 I help businesses get clarity with data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients and your big bosses.
 
-This isn't about yet another expensive tool or ripping up what you're doing - it's about a better, move valuable interpretation of data you're probably already collecting.
+This isn’t about yet another expensive tool or ripping up what you’re doing. It’s about a better, move valuable interpretation of data you’re already collecting.
 
 ### My services come in two flavours:
 
 - **Data Walkthrough** - A four to six week consultancy where I integrate myself into your organisation. I'll compile, combine and automate various data sources into a structure that makes essential insight immediately available.
 - **Data Workshops** - A series of hands on sessions with the people across your business who need to know about data. These can be full or half day, depending on the size of your company and the complexity of your analytics setup.
-- **Campaign Wrapups** - Bring me in at the culmination of each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
+- **Campaign Wrapups** - Why are the teams that manage your activities also reporting on their success? Bring me in at the culmination of each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
 
 Does that sound like something you need?
 
@@ -28,11 +28,11 @@ Does that sound like something you need?
 
 ![data-dashboards.png]({{site.baseurl}}/assets/img/data-dashboards.png)
 
-Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. However, they'll all have their own targets, and will inevitablly be tracking different metrics in different ways.
+Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. But, they'll all have their own targets, and will be tracking different metrics in different ways.
 
-All this disperate information will also probably contradict what your ecommerce team has say.
+All this disparate information will likely contradict what your ecommerce team has say.
 
-#### A centralised (but customisible) view of data is essential so they each understand the consequences of their actions. 
+#### A centralised view of data is essential so they each understand the broader consequences of their actions. 
 
 If you've pondered on any of the following questions, it's worth [getting in touch](/contact) to discuss how I can help.
 
