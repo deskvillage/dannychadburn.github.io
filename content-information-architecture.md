@@ -5,7 +5,7 @@ published: true
 ---
 # Content that's built to last
 
-#### Forget the elaborate mind maps and intricate venn diagrams - I offer practical solutions to improving content structure.
+#### Forget the elaborate mind maps and intricate venn diagrams. I offer practical solutions to improving content structure.
 
 My ability to define exceptional information architecture stems from my vast experience in content strategy. I've combined this with knowledge inherited from the SEO and UX experts I've been lucky enough to work with.
 
@@ -17,7 +17,7 @@ I’ll apply the right IA model to your content, making it easier for your audie
 
 There's a lot to factor in when adapting your existing content setup. Hierarchies, structures, redirects, metadata, [microcopy](/headline-copywriting), workflows and tracking - it's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
 
-My approach is rooted in efficiency. Your IA can be revolutionised in as little as 12 weeks, with all the necessary audits, plans, frameworks, roadmaps and checklists delivered on time, and within budget.
+My approach is efficiency-first. You can have a brand new IA in as little as 12 weeks. All the necessary audits, plans, frameworks, roadmaps and checklists get delivered on time, and within budget.
 
 #### It's as meticulous as you'll get from any agency or freelancer, but you won't still be paying me this time next year.
 
@@ -27,7 +27,7 @@ Does that sound like something your business needs?
 
 ## Guiding big websites through complex projects
 
-From both in-house and agency side, the many industries I've worked across include automotive, telecoms, healthcare, charity, finance, gaming and recruitment.
+From both in-house and agency side, I’ve worked across automotive, telecoms, healthcare, charity, finance, gaming, recruitment and many more industries.
 
 [Contact me](/contact). if you'd like to hear more about how I have:
 
