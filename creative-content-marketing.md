@@ -12,9 +12,9 @@ So while there is a basic process I follow (plan, produce, publish, promote), ev
 
 ## A conveyor belt of creativity
 
-I'd be lying if I said everything I've ever worked on has been a runaway success, however I do have an impressive hit rate of getting it right.
+I'd be lying if I said everything I've ever worked on has been a runaway success. However, I do have an impressive hit rate of getting it right.
 
-That's because I blend the best of content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
+That’s because I know how to blend content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
 
 And most importantly, I make sure [data](/content-campaign-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
@@ -28,7 +28,7 @@ Got a project to discuss?
 
 ## Some shameless namedropping
 
-A wall of logos is pointless without something to back it up. You'll be pleased to hear I've got interesting stories to tell (and impressive stats to share) about each of the branded campaigns listed below (and tonnes more).
+A wall of logos is pointless without something to back it up. I've got interesting stories to tell (and impressive stats to share) about each of the campaigns listed below (and tonnes more).
 
 - **Rolls Royce** x Time Out
 - **Adam & Eve** x Buzzfeed / SPORTbible
@@ -39,7 +39,7 @@ A wall of logos is pointless without something to back it up. You'll be pleased 
 
 #### Each of these has been achieved without a penny in media fees changing hands.
 
-This isn't a case of paying big bucks for native advertising, it's about crafting a narrative and putting your business in the right context.
+This isn't a case of paying big bucks for native advertising. It's about crafting a narrative and putting your business in the right context.
 
 Want this kind of attention for your brand?
 
@@ -49,7 +49,7 @@ Want this kind of attention for your brand?
 
 While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts.
 
-I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_
+I've been lucky enough to quaff Champagne at various events, including my personal favourite the **#DoDifferent Awards** which is _"...for those who dare to step outside the confining comfort of conventionality and do something brilliantly new."_ (which we happened to win).
 
 ![Do Different Awards]({{site.baseurl}}/assets/img/dodifferent.jpg)
 
