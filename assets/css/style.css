@@ -215,6 +215,12 @@ blockquote{
 	padding-top: 15px;
     border-top: 3px solid seagreen;
     background-color: #eff0f0;
+	
+  background-image:
+    linear-gradient(
+      to top right, 
+      #d9f2e4, #eff0f0
+    );
     margin: 5px;
     padding: 30px;
     -webkit-margin-before: 30px;
