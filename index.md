@@ -9,7 +9,7 @@ published: true
 
 #### I'm Danny, a freelance content consultant and copywriter from Brighton. I've honed my skills working for household name brands and boutique digital agencies, generating billions of page views.
 
-But enough [about me](/about), this is what I can do for you:
+Enough [about me](/about), here's what I can do for you:
 
 - **[Campaign Performance Analytics](/content-campaign-analytics)** - data dashboards and frameworks that offer clear insight
 - **[Information Architecture](/content-information-architecture)** - putting content for big websites in a better structure
