@@ -17,5 +17,5 @@ I don't have regular news, but I do have no shortage of ideas! These are sporadi
 
 <a href="https://tinyletter.com/tidyswan" target="_blank"><button class="button">Subscribe now</button></a>
 
-> Check out my **[Copy Right Now]**(/copy-right-now) and **[Beers for Ideas]**(/beers-for-ideas) services, both of which can be booked and paid for online.
+> Check out my **[Copy Right Now](/copy-right-now)** and **[Beers for Ideas](/beers-for-ideas)** services, both of which can be booked and paid for online.
 
