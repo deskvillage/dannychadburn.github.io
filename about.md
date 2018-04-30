@@ -55,7 +55,7 @@ No - I have a penchant for technology and sport, but I've plied my trade in pret
 I can (and do), although I specialise in [headline copywriting](/headline-copywriting). If you have a hankering for some editorial, [get in touch](/contact) and I'll put you in contact with an expert who can help.
 
 #### What's your day rate?
-Prices start at £300 a day, but could be double that depending on the nature of each project.
+Prices start at £400 a day, but could be double that depending on the nature of each project.
 
 #### Do you work pro-bono?
 I have done, and would do again for the right cause. [Send me a pitch](/contact)!
