@@ -7,19 +7,19 @@ published: true
 
 #### Forget the elaborate mind maps and intricate venn diagrams. I offer practical solutions to improving content structure.
 
-My ability to define exceptional information architecture stems from my vast experience in content strategy. I've combined this with knowledge inherited from the SEO and UX experts I've been lucky enough to work with.
-
-I’ll apply the right IA model to your content, making it easier for your audience to discover what you have to offer.
+Using experience in content strategy, SEO and UX I'll apply the right IA model to your content.  The goal is to make it easier for people to discover what you have to offer, and lead them towards your most lucrative pages.
 
 <a href="/contact"><button class="button">Call me today</button></a>
 
 ## Get organised
 
-There's a lot to factor in when adapting your existing content setup. Hierarchies, structures, redirects, metadata, [microcopy](/headline-copywriting), workflows and tracking - it's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
+There's a lot to factor in when adapting your existing content setup. Hierarchies, structural models, redirects, metadata, [microcopy](/headline-copywriting), workflows and tracking. It's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
 
-My approach is efficiency-first. You can have a brand new IA in as little as 12 weeks. All the necessary audits, plans, frameworks, roadmaps and checklists get delivered on time, and within budget.
+![ia.jpg]({{site.baseurl}}/assets/img/ia.jpg)
 
-#### It's as meticulous as you'll get from any agency or freelancer, but you won't still be paying me this time next year.
+My approach is efficient. You can have a brand new IA in as little as 12 weeks. All the necessary audits, plans, frameworks, roadmaps and checklists get delivered on time, and within budget.
+
+#### It's as meticulous as you'll get from any agency, but you won't still be paying me this time next year.
 
 Does that sound like something your business needs?
 
@@ -32,9 +32,9 @@ From both in-house and agency side, I’ve worked across automotive, telecoms, h
 [Contact me](/contact). if you'd like to hear more about how I have:
 
 - Recategorised over 5,000 reference pages for a site attracting 1 million visits a day
-- Managed the transition to a new CMS, guiding teams in Boston, London, Berlin and Hyderabad through the process
-- Merged six distintive microsites under a single umbrella brand domain
-- Delivered training sessions and a wiki, reflecting real-world scenarios for a global network of content creators
+- Managed the transition to a new CMS across teams in Boston, London, Berlin and Hyderabad
+- Merged six distintive product microsites under a single umbrella brand domain
+- Delivered real-world scenario training sessions and a wiki for a global publishing house
 
 By [employing my expertise](/contact), I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies.
 
