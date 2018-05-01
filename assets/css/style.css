@@ -219,9 +219,9 @@ blockquote{
   background-image:
     linear-gradient(
       to top right, 
-      #d9f2e4, #eff0f0
+      #fcf8f7, #eff0f0
     );
-    margin: 5px;
+    margin: 10px;
     padding: 30px;
     -webkit-margin-before: 30px;
     -webkit-margin-after: 3px;
