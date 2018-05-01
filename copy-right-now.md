@@ -21,7 +21,7 @@ Click your preferred option below and complete the order form - payment is taken
 
 If you need to discuss anything that wasn't possible to add to the order form, or you want to change any details, please [get in touch](/contact).
 
-### Money back guarantee
+## Money back guarantee
 
 There may be the very rare occassion where what I provide doesn't exactly hit the nail on the head. Never matter. So long as you have a legitimate reason for not liking my efforts (and you're not planning on using them) I'll happily arrange a refund.
 
