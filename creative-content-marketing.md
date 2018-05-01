@@ -45,7 +45,7 @@ Want this kind of attention for your brand?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
-### Hits from the gong
+## Hits from the gong
 
 While we all know industry awards are dished out to whoever pays most for a table, it's always nice to get an accolade for your efforts.
 
