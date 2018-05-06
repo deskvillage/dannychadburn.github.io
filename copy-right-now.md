@@ -16,8 +16,8 @@ I provide quick turnaround micro-copy (between 2 and 20 words) that works. You g
 
 Click your preferred option below and complete the order form - payment is taken up front and the countdown begins as soon as the funds land in my account.
 
-<a href="#"><button class="button">Copy in 24 hours - <b>£80</b></button></a>
-<a href="#"><button class="button">Copy in 72 hours - <b>£60</b></button></a>
+<a href="/orders/copy-right-now-24"><button class="button">Copy in 24 hours - <b>£80</b></button></a>
+<a href="/orders/copy-right-now-72"><button class="button">Copy in 72 hours - <b>£60</b></button></a>
 
 If you need to discuss anything that wasn't possible to add to the order form, or you want to change any details, please [get in touch](/contact).
 
