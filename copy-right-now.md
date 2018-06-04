@@ -6,11 +6,11 @@ published: true
 
 # Copy Right Now
 
-#### You've got a deadline, you need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your copywriter has gone AWOL, and your creative juices have stopped flowing.
+#### You've got a deadline. You need an amazing headline for your landing page, a tagline for your promotion or a subject line for your email. But your copywriter has gone AWOL, and your creative juices have stopped flowing.
 
 Let me be your emergency copywriter.
 
-I provide quick turnaround micro-copy (between 2 and 20 words) that works. You get three ready-to-use unique variations, in the timeframe you need them.
+I provide quick turnaround [micro-copy](/headline-copywriting) (between 2 and 20 words) that works. You get three ready-to-use unique variations, in the timeframe you need them.
 
 ## Place your order
 
@@ -23,6 +23,6 @@ If you need to discuss anything that wasn't possible to add to the order form, o
 
 ## Money back guarantee
 
-There may be the very rare occassion where what I provide doesn't exactly hit the nail on the head. Never matter. So long as you have a legitimate reason for not liking my efforts (and you're not planning on using them) I'll happily arrange a refund.
+There may be the very rare occassion where what I provide doesn't exactly hit the nail on the head. Don't fret. So long as you have a legitimate reason for not liking my efforts (and you're not planning on using them) I'll happily arrange a refund.
 
-> If you have a bit more flex in your deadlines, check out my [headline copywriting](/headline-copywriting) service.
+> If you have a bit more flexibility in your deadlines, check out my [headline copywriting](/headline-copywriting) service.
