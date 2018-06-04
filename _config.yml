@@ -12,10 +12,10 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Performance Analytics
-   url: /content-campaign-analytics
  - title: Site Architecture
    url: /content-information-architecture
+ - title: Performance Analytics
+   url: /content-campaign-analytics
  - title: Content Marketing
    url: /creative-content-marketing
  - title: Headline Copywriting
