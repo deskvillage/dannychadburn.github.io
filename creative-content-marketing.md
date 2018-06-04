@@ -18,7 +18,7 @@ That’s because I know how to blend content, marketing, SEO, PR, social media a
 
 And most importantly, I make sure [data](/content-campaign-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
-Got a project to discuss?
+#### Got a project to discuss?
 
 <a href="/contact"><button class="button">Give me a call</button></a>
 
@@ -28,20 +28,21 @@ Got a project to discuss?
 
 ## Some shameless namedropping
 
-A wall of logos is pointless without something to back it up. I've got interesting stories to tell (and impressive stats to share) about each of the campaigns listed below (and tonnes more).
+A wall of logos is pointless without something to back it up. I've got <a href="/contact">interesting stories to tell</a> (and impressive stats to share) about each of the campaigns listed below (and tonnes more).
 
 - **Rolls Royce** x Time Out
-- **Adam & Eve** x Buzzfeed / SPORTbible
+- **Adam & Eve** x SPORTbible
+- **Betfair** x Buzzfeed
 - **Patient** x Fansided / New York Post
 - **LG** x Londonist
 - **Gala Bingo** x The Argus / Visit Exmoor
 - **Blaze** x The Guardian
 
-#### Each of these has been achieved without a penny in media fees changing hands.
+#### All of these has been achieved without a penny in media fees changing hands.
 
 This isn't a case of paying big bucks for native advertising. It's about crafting a narrative and putting your business in the right context.
 
-Want this kind of attention for your brand?
+#### Want this kind of attention for your brand?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
@@ -60,6 +61,6 @@ I've been lucky enough to quaff Champagne at various events, including my person
 - Performance Marketing Awards
 - European Search Awards
 
-Want to expand your trophy cabinet?
+#### Want to expand your trophy cabinet?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
