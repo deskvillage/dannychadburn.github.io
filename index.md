@@ -7,12 +7,12 @@ published: true
 
 # The cure for your content
 
-#### I'm Danny, a freelance content consultant and copywriter from Brighton. I've honed my skills working for household name brands and boutique digital agencies, generating billions of page views.
+#### I'm Danny, a freelance content consultant and copywriter from Brighton. I've honed my skills working for household name brands and digital agencies, generating billions of page views.
 
 Enough [about me](/about), here's what I can do for you:
 
-- **[Campaign Performance Analytics](/content-campaign-analytics)** - data dashboards and frameworks that offer clear insight
 - **[Information Architecture](/content-information-architecture)** - putting content for big websites in a better structure
+- **[Campaign Performance Analytics](/content-campaign-analytics)** - data dashboards and frameworks giving clear insight
 - **[Content Marketing](/creative-content-marketing)** - planning award-winning creative campaigns for companies and agencies
 - **[Headline Copywriting](/headline-copywriting)** - succinct messages for companies who need to attract attention
 
