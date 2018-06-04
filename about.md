@@ -8,9 +8,9 @@ published: true
 
 <a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
-#### Since the late 90s I've been working in the realm of digital marketing. I've generated billions of page views for household name companies, global agencies, government funded charities and fledgling startups, 
+#### Since the late 90s I've been working in digital marketing. I've generated billions of page views for household name companies, global agencies, government funded charities and fledgling startups, 
 
-It seemed unfair to limit all that experience to just one employer. So I'm now a freelance content consultant offering [performance analysis](/content-campaign-analytics), [IA](/content-information-architecture), [content marketing](/creative-content-marketing) and [headline writing](/headline-copywriting) services to companies of all shapes and sizes.
+It seemed unfair to limit all that experience to just one employer. So I'm now a freelance content consultant offering [IA](/content-information-architecture), [performance analysis](/content-campaign-analytics), [content marketing](/creative-content-marketing) and [headline writing](/headline-copywriting) services to companies of all shapes and sizes.
 
 I was once described by a manager as a maverick. It may or may not have been intended as a compliment, but I took it as one. My approach is unconventional - an invaluable trait when the industry often accepts homogeneity and the humdrum.
 
@@ -44,12 +44,12 @@ Yes.
 #### Can I see it?
 Yes, but only if I can [talk you through it](/contact). Viewing work examples online is like buying shoes or browsing properties - you don't know if they're for you until you see them in the flesh.
 
-You won't be faced with a heavy sales pitch. But I'd prefer to show you things in context rather than some fabricated examples and massaged numbers I've thrown together.
+You won't be faced with a heavy sales pitch, I'd just prefer to show you things in context rather than some fabricated examples.
 
-### Do you specialise in a particular industry?
-No. I have a penchant for technology and sport, but I've plied my trade in prety much every market from agriculture to zoology.
+#### Do you specialise in a particular industry?
+No. I have a penchant for technology and sport, but I've plied my trade in pretty much every market from agriculture to zoology.
 
-### Do you write articles or longer form content?
+#### Do you write articles or longer form content?
 I can (and do), although I specialise in [headline copywriting](/headline-copywriting). If you have a hankering for some editorial, [get in touch](/contact) and I'll put you in contact with an expert who can help.
 
 #### What's your day rate?
@@ -58,13 +58,13 @@ Prices start at £400 a day, but could be double that depending on the nature of
 #### Do you work pro-bono?
 I have done, and would do again for the right cause. [Send me a pitch](/contact)!
 
-#### Do you know an expert in branding, design, SEO, UX, etc
+#### Do you know an expert in branding, design, SEO, UX, etc?
 Probably! [Give me a shout](/contact) and I'll try and hook you up with a talented individual.
 
 #### Will you work in my city / country?
 Sure, if you'll cover the travel costs (don't worry, I'm happy in standard class). Just to warn you, English is my one and only language.
 
-Anything else you'd like to know?
+### Anything else you'd like to know?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
@@ -76,7 +76,7 @@ Anything else you'd like to know?
 
 When I took the freelance leap, I opted for a trading name after growing tired of phonetically spelling my own surname for the past few decades.
 
-I mashed together a list of two-syllable adjectives with various words that rhyme with .com, then ran them through a domain name checker.
+So I mashed together a list of two-syllable adjectives with various animals that rhyme with .com, then ran them through a domain name checker.
 
 [tidyswan.com](/index) jumped out of the pack, with the added benefit of 'tidy' being slang for 'good' or 'nice' in my birthplace of Wales.
 
