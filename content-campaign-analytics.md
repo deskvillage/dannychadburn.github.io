@@ -12,15 +12,15 @@ When you've managed as many [content campaigns](/creative-content-marketing) as 
 
 I help businesses get clarity with data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients and your big bosses.
 
-This isn’t about yet another expensive tool or ripping up what you’re doing. It’s about a better, move valuable interpretation of data you’re already collecting.
+This isn’t about yet another expensive tool or ripping up what you’re doing. It’s about a better, more valuable interpretation of the data you’re already collecting.
 
 ## My services come in three flavours:
 
 - **Data Walkthrough** - A four to six week consultancy where I integrate myself into your organisation. I'll compile, combine and automate various data sources into a structure that makes essential insight immediately available.
-- **Data Workshops** - A series of hands on sessions with the people across your business who need to know about data. These can be full or half day, depending on the size of your company and the complexity of your analytics setup.
-- **Campaign Wrapups** - Why are the teams that manage your activities also reporting on their success? Bring me in at the culmination of each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
+- **Data Workshops** - A series of practical sessions with the people across your business who need to know about data. These can be full or half day, depending on the size of your company and the complexity of your analytics setup.
+- **Campaign Wrapups** - Why are the teams that manage your activities also reporting on their success? Bring me in before, during and after each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
 
-Does that sound like something you need?
+#### Does that sound like something you need?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
@@ -28,13 +28,13 @@ Does that sound like something you need?
 
 ![data-dashboards.png]({{site.baseurl}}/assets/img/data-dashboards.png)
 
-Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. But, they'll all have their own targets, and will be tracking different metrics in different ways.
+Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. But they'll all have their own targets and will track different metrics in different ways.
 
 All this disparate information will likely contradict what your ecommerce team has say.
 
 #### A centralised view of data is essential so they each understand the broader consequences of their actions. 
 
-If you've pondered on any of the following questions, it's worth [getting in touch](/contact) to discuss how I can help.
+If you've pondered any of the following questions, it's worth [getting in touch](/contact) to discuss how I can help.
 
 - How do you assess content ROI when there's no direct revenue?
 - How do you compare various campaigns on an even keel?
@@ -53,4 +53,4 @@ There are hundreds of analytics software packages out there, each with their own
 - Brandwatch / Hootsuite
 - Ahrefs / SEMrush
 
-This is a far from exclusive list, and I'm happy to tackle any tool you use - [give me a call](/contact) and we can discuss your project.
+This is a far from exclusive list, and I'm happy to tackle any tool you use. [Give me a call](/contact) and we can discuss your project.
