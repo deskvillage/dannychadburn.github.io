@@ -5,9 +5,9 @@ published: true
 ---
 # Content that's built to last
 
-#### Forget the elaborate mind maps and intricate venn diagrams. I offer practical solutions to improving content structure.
+#### Forget the over-elaborate mind maps and intricate venn diagrams. I offer practical solutions to improving content structure.
 
-Using experience in content strategy, SEO and UX I'll apply the right IA model to your content.  The goal is to make it easier for people to discover what you have to offer, and lead them towards your most lucrative pages.
+Drawing on experience from content strategy, SEO and UX I'll apply the right IA model to your content. The goal is to make it easier for people to discover what you have to offer, and lead them towards your most lucrative pages.
 
 <a href="/contact"><button class="button">Call me today</button></a>
 
