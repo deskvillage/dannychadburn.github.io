@@ -12,7 +12,7 @@ Rather than letting them go to waste, I can send you an idea tailored for your c
 
 Need an fresh content idea to pitch to a client? Seeking an inventive way of advertising your new product? Trying to get your startup in the eyes of potential customers? Off to a job interview and want to differentiate yourself?
 
-<a href="/orders/beers-for-ideas"><button class="button">Order an idea today</button></a>
+<a href="/orders/beers-for-ideas"><button class="button">Order an idea today - <b>£25</b></button></a>
 
 ## A little more lubrication, a little more traction
 
@@ -25,7 +25,5 @@ For that you will get:
 - Examples of how, where and when it could be implemented
 
 <a href="/orders/beers-for-ideas"><button class="button">Place an order now</button></a>
-
-If you need more convincing, [check out an example idea](#).
 
 > I also offer a fully formed [creative content campaign](/creative-content-marketing) service (minus the beer).
