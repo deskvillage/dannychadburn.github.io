@@ -1,3 +1,5 @@
+<head><link rel="stylesheet" href="styles/theme/simple.css" id="theme"></head>
+
 # Probio 7
 
 ###### Proposal
