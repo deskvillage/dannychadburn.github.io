@@ -2,7 +2,7 @@
 
 ###### Proposal
 
-#### What's the most lucrative way to promote Probio 7 online?
+## What's the most lucrative way to promote Probio 7 online?
 
 ---
 
@@ -12,11 +12,15 @@
 - SEO vs. SEM
 - Social media marketing
 
+---
+
 ### What a new website might look like?
 
 - Pros and cons of product-focussed vs. content-led website model
 - Suggested IA structure for a new site
 - Opportunities around communities (existing and new)
+
+---
 
 ### What are competitors up to?
 
