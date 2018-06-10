@@ -2,12 +2,24 @@
 
 ###### Proposal
 
-#### Market Opportunity Analysis
+#### What's the most lucrative way to promote Probio 7 online?
 
 ---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### Where's the big growth opportunity?
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//slides.com/dannychadburn/deck-1/embed' scrolling='no' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+- Does advertising have potential?
+- SEO vs. SEM
+- Social media marketing
 
-## Who are the competitors?
+### What a new website might look like?
+
+- Pros and cons of product-focussed vs. content-led website model
+- Suggested IA structure for a new site
+- Opportunities around communities (existing and new)
+
+### What are competitors up to?
+
+- Breaking down their tactics to see what is and isn't working
+- What audiences are they targeting, and how much is sewn up
+- What keyterms are currently underutilised
