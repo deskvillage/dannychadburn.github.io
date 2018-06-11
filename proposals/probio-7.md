@@ -4,7 +4,7 @@
 
 ## What's the most lucrative way to promote Probio 7 online?
 
-I'll comnprehensively answer that question, covering the following topics:
+I'll answer that question, covering the following topics:
 
 ---
 ###### 30%
@@ -19,7 +19,7 @@ I'll comnprehensively answer that question, covering the following topics:
 #### What are competitors up to?
 
 - Digital market share of retailers and rival manufacturers
-- Tactics being used by each brand (and how well they're working)
+- Tactics used by each brand (and how well they're working)
 - What audience segments are they targeting?
 
 ---
@@ -29,7 +29,7 @@ I'll comnprehensively answer that question, covering the following topics:
 - The benefits of a lifestyle (content-led) vs. a features (product-focussed) website
 - A suggested IA structure (core sections and user journeys)
 - Opportunities around customer communities (existing and new)
-- How existing partners (Tesco, Boots, etc) can be used for your advantage
+- How to use partners (Tesco, Boots, etc) to your advantage
 - Making more from direct advertising (display, SEM and paid social)
 
 ---
@@ -42,8 +42,8 @@ Suggested 20-Jun > 11-Jul
 
 For this you will receive:
 
-- A written report, delivered online and as a PDF
-- The raw research data
+- A detailed market analysis report (online and PDF versions)
+- Annotated research data
 - A meeting to discuss key report findings at your preferred location
 - Availability to answer any follow-up questions
 
@@ -51,8 +51,7 @@ For this you will receive:
 
 #### Optional Extra(s)
 
-- **£400** Automated weekly search market share reports setup - keep track of how you're doing against your competitors
-- **£600** Data dashboard development using GA (or equivalent) - see exactly where your traffic is coming from
+- **£400** Automated search market share reports setup. Keep track of how you're doing against your competitors.
 - **POA** Full IA development for a new brand website 
 
 > **Get rewarded for your contacts!** I operate a referral scheme where fees can be reduced by 10% (up to 30%) for every introduction that results in new business. Email [hello@tidyswan.com](mailto:hello@tidyswan.com) if you know of anyone who'd be interested in [my expertise](/).
