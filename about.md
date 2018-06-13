@@ -18,6 +18,8 @@ I was once described by a manager as a maverick. It may or may not have been int
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
+> Want to inspire the people in your content team to achieve greatness? Check out my [Employee Mentoring](/content-mentoring) service.
+
 <a name="facts"></a>
 
 ---
