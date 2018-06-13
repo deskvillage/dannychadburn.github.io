@@ -20,6 +20,8 @@ If any of these services take your fancy, you can [contact me](/contact) via [he
 
 ## What else?
 
+> **[Content Mentoring](/content-mentoring)** - Let me pass on some of my experience to your team, helping them reach their full potential.
+
 > **[Copy Right Now](/copy-right-now)** - Need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole.
 
 > **[Beers for Ideas](/beers-for-ideas)** - You buy me some beer, I'll send you an amazing content idea. Seems like a fair trade.
