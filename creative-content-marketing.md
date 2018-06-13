@@ -64,3 +64,5 @@ I've been lucky enough to quaff Champagne at various events, including my person
 #### Want to expand your trophy cabinet?
 
 <a href="/contact"><button class="button">Get in touch</button></a>
+
+> Want to inspire the people in your content team to achieve greatness? Check out my [Employee Mentoring](/content-mentoring) service.
