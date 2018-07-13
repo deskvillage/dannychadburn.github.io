@@ -8,7 +8,7 @@ published: true
 
 <a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
-#### Since the late 90s I've been working in digital marketing. I've generated billions of page views for household name companies, global agencies, government funded charities and fledgling startups, 
+#### Since the late 90s I've been working in digital marketing. I've generated billions of page views for household name companies, global agencies, government funded charities and fledgling startups.
 
 It seemed unfair to limit all that experience to just one employer. So I'm now a freelance content consultant offering [IA](/content-information-architecture), [performance analysis](/content-campaign-analytics), [content marketing](/creative-content-marketing) and [headline writing](/headline-copywriting) services to companies of all shapes and sizes.
 
