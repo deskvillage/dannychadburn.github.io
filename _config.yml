@@ -12,13 +12,15 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Site Architecture
+ - title: Home
+   url: /
+ - title: Architecture
    url: /content-information-architecture
- - title: Performance Analytics
+ - title: Analytics
    url: /content-campaign-analytics
  - title: Content Marketing
    url: /creative-content-marketing
- - title: Headline Copywriting
+ - title: Copywriting
    url: /headline-copywriting
  - title: About
    url: /about
