@@ -18,7 +18,7 @@ This isn’t about yet another expensive tool or ripping up what you’re doing.
 
 - **Data Setup** - A four to six week consultancy where I integrate myself into your organisation. I'll compile, combine and automate various data sources into a structure that makes essential insight immediately available.
 - **Data Workshops** - A series of practical sessions with the people across your business who need to know about data. These can be full or half day, depending on the size of your company and the complexity of your analytics setup.
-- **Campaign Wrapups** - Why are the teams that manage your activities also reporting on their success? Bring me in before, during and after each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
+- **Campaign Wrap Ups** - Why are the teams that manage your activities also reporting on their success? Bring me in before, during and after each campaign to take an unbiased (and channel agnostic) view of results to get a true picture.
 
 #### Does that sound like something you need?
 
