@@ -16,7 +16,7 @@ Need a fresh content idea to pitch to a client? Seeking an inventive way of adve
 
 ## A little more lubrication, a little more traction
 
-Ideas are delivered within **72 days** and the exchange rate is **£25** (approx. $36 or €29) - the cost of a delicious [Craft Beer Box](https://www.flavourly.com/beer/club/).
+Ideas are delivered within **72 hours** and the exchange rate is **£25** (approx. $36 or €29) - the cost of a delicious [Craft Beer Box](https://www.flavourly.com/beer/club/).
 
 For that you will get:
 
