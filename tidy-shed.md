@@ -1,10 +1,8 @@
-# Tidy Shed
+# Tidy Shed - support for your agency, when you need it most
 
-## Support for your agency, when you need it most
+#### Tidy Shed is a collaboration between a pair of seasoned digital marketers; [myself](/about) and Seb from [SHED Communications](http://shedcomms.co).
 
-Tidy Shed is a collaboration between a pair of award-winning digital marketers; [myself](/about) and Seb from [SHED Communications](http://shedcomms.co).
-
-Drawing on experiences gained from within agencies, we've identified a few areas where our complementary content and PR skills can be most valuable.
+Drawing on vast experience gained from within agencies, we've identified essential areas where our complementary content and PR skills can be applied.
 
 #### Want to discuss how we can help?
 
