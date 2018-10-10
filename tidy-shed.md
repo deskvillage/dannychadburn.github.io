@@ -1,0 +1,39 @@
+# Tidy Shed
+
+## Support for your agency, when you need it most
+
+Tidy Shed is a collaboration between a pair of award-winning digital marketers; [myself](/about) and Seb from [SHED Communications](http://shedcomms.co).
+
+Drawing on experiences gained from within agencies, we've identified a few areas where our complementary content and PR skills can be most valuable.
+
+---
+### Pitch Support
+_Helping you secure new business_
+
+- Extend your internal setup with vast experience and a fresh perspective
+- Support available from initial response through to pitch presentation
+- Take the load off your senior team - let them focus on their day jobs
+
+---
+### Client Onboarding
+_Guiding you through the intensive first few months_
+
+- Give your team a clear and sustainable strategy to execute
+- Efficient planning phase means you can start showing success sooner
+- Front-load fees by providing strategy as a one-off rather than a recurring cost
+
+---
+### Problem Solving
+_Sort things out before they turn sour_
+
+- Protect future profits with a strategic shift in the relationship
+- Defined remit to fix the issue, for client problems or problem clients
+- Easier to find solutions when you take an outsider's view
+
+---
+### Disaster Recovery
+_For when the unexpected happens_
+
+- Senior expertise used to handling emergencies - on call 24/7 to take control
+- Quickly establish immediate and medium-term actions to be put into place
+- Develop a long-term plan so it never happens again
