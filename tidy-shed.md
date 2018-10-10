@@ -12,9 +12,9 @@ Drawing on vast agency experience, we've identified core areas where our complem
 ### Pitch Support
 _Helping you secure new business_
 
-- Extend your internal setup with vast experience and a fresh perspective
+- Extend your internal setup with senior-level skills and a fresh perspective
 - Support available from initial response through to pitch presentation
-- Take the load off your senior team - let them focus on their day jobs
+- Take the load off your team - let them focus on their day jobs
 
 ---
 ### Client Onboarding
