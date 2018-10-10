@@ -6,6 +6,10 @@ Tidy Shed is a collaboration between a pair of award-winning digital marketers; 
 
 Drawing on experiences gained from within agencies, we've identified a few areas where our complementary content and PR skills can be most valuable.
 
+#### Want to discuss how we can help?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
+
 ---
 ### Pitch Support
 _Helping you secure new business_
@@ -37,3 +41,7 @@ _For when the unexpected happens_
 - Senior expertise used to handling emergencies - on call 24/7 to take control
 - Quickly establish immediate and medium-term actions to be put into place
 - Develop a long-term plan so it never happens again
+
+#### Does that sound like something your agency needs?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
