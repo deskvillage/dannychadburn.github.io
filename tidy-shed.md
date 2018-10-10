@@ -2,7 +2,7 @@
 
 #### Tidy Shed is a collaboration between a pair of seasoned digital marketers; [myself](/about) and Seb from [SHED Communications](http://shedcomms.co).
 
-Drawing on vast experience gained from within agencies, we've identified essential areas where our complementary content and PR skills can be applied.
+Drawing on vast agency experience, we've identified core areas where our complementary content and PR skills can be of value.
 
 #### Want to discuss how we can help?
 
