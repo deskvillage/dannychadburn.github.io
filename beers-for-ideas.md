@@ -6,7 +6,7 @@ published: true
 
 # Beers for Ideas
 
-#### My mind is always wirring, churning out far more ideas than I could ever turn into reality.
+#### My mind is always whirring, churning out far more ideas than I could ever turn into reality.
 
 Rather than letting them go to waste, I can send you an idea tailored for your company, in exchange for some delicious craft brews.
 
