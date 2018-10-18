@@ -28,7 +28,7 @@ I make every character count, within two words or 20.
 
 ## In perfect harmony
 
-Copy is pivotal to the success of many marketing activities. I work with companies redeveloping their brand voice, launchiung new products and running marketing campaigns. 
+Copy is pivotal to the success of many marketing activities. I work with companies redeveloping their brand voice, launching new products and running marketing campaigns. 
 
 Every project is unique, but four weeks is usually enough time to research your market, get to know your business, work through the various options, then produce an output that hits the mark.
 
