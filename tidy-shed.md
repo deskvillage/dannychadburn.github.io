@@ -4,13 +4,13 @@ title: Tidy Shed | Pitch Support and Problem Solving for Agencies
 published: true
 ---
 
-# Tidy Shed - agency support, when it matters most
+# Tidy Shed - turbocharge your agency
 
 #### Tidy Shed is a collaboration between a pair of seasoned digital marketers; [myself](/about) and Seb from [SHED Communications](http://shedcomms.co).
 
 Drawing on vast agency experience, we've identified core areas where our complementary content and PR skills can be of value.
 
-#### Want to discuss how we can help?
+#### We'll help you to deliver better work visually, strategically and measurably.
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
