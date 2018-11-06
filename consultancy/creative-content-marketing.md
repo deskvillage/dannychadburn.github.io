@@ -16,7 +16,7 @@ I'd be lying if I said everything I've ever worked on has been a runaway success
 
 That’s because I know how to blend content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
 
-And most importantly, I make sure [data](/performace-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
+And most importantly, I make sure [data](/consultancy/performance-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
 #### Got a project to discuss?
 
@@ -63,4 +63,4 @@ I've been lucky enough to quaff Champagne at various events, including my person
 
 <a href="/contact"><button class="button">Get in touch</button></a>
 
-> Want to inspire the people in your content team to achieve greatness? Check out my [Employee Mentoring](/content-mentoring) service.
+> Want to inspire the people in your content team to achieve greatness? Check out my [team mentoring](/consultancy/content-team-mentoring) service.
