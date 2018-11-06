@@ -16,13 +16,11 @@ I'd be lying if I said everything I've ever worked on has been a runaway success
 
 That’s because I know how to blend content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
 
-And most importantly, I make sure [data](/content-campaign-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
+And most importantly, I make sure [data](/performace-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
 #### Got a project to discuss?
 
 <a href="/contact"><button class="button">Give me a call</button></a>
-
-> Want a taste of the kind of thing I can come up with? Check out my [Beers for Ideas](/beers-for-ideas) service. Exchange creativity for craft ales.
 
 <a name="clients"></a>
 
