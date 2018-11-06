@@ -7,7 +7,7 @@ published: true
 
 #### Benefit from a practical and personal consultancy that delivers tangible results.
 
-I work with clients to pass on my vast experience across various digital marketing disciplines, including
+I work with clients across various digital marketing disciplines, including:
 
 > **[Information Architechture](/consultancy/content-information-architecture)** - helping people discover what you have to offer, leading them towards your most lucrative pages.
 
