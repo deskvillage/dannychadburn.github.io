@@ -17,7 +17,13 @@ Enough [about me](/about), here's what I can do for you:
 
 > **[Contracting](/contracting-cv/)** - Need a Product Owner or Content Strategist to lead your project? Take a look at my credentials.
 
-> **[eBook Creation](/ebook-creation/)** - Get a lead magnet for your business. I offer a full production, publishing and promotion service.
+> **[eBook Creation](/ebook-creation/)** - Get a new prospect magnet for your business. I offer a full digital asset production, publishing and promotion service.
+
+&nbsp;
+
+#### Seen something you like?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
 
 <div>
   <ul class="posts noList">
