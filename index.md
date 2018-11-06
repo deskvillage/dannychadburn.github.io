@@ -19,7 +19,7 @@ Enough [about me](/about), here's what I can do for you:
 
 > **[eBook Creation](/ebook-creation/)** - Get a lead magnet for your business with a unique asset. I offer a full production, publishing and promotion service.
 
-\
+  
 
 If any of these services take your fancy, you can [contact me](/contact) via [hello@tidyswan.com](mailto:hello@tidyswan.com) or on <a href="tel:+447720057767">07720 057767</a>.
 
