@@ -38,4 +38,4 @@ From both in-house and agency side, I’ve worked across automotive, telecoms, h
 
 By [employing my expertise](/contact), I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies.
 
-> If you're after more of an immediate attention burst, I also offer [creative content campaign planning](/creative-content-marketing) services.
+> If you're after more of an immediate attention burst, I also offer [creative content campaign planning](/consultancy/creative-content-marketing) services.
