@@ -8,7 +8,7 @@ published: true
 
 #### If it's urgent, you can call (or text, or WhatsApp) <a href="tel:+447720057767">07720 057767</a>.
 
-Alternativey, email [hello@tidyswan.com](mailto:hello@tidyswan.com) with details of the kind of support you're after.
+Alternativey, email [hello@tidyswan.com](mailto:hello@tidyswan.com) with a few details and I'll respond ASAP.
 
 Want to know more about me? [Check out my FAQ](/about/#faq)
 
