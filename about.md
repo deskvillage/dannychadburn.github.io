@@ -32,7 +32,7 @@ I was once described by a manager as a maverick. It may or may not have been int
 - I appeared as an extra in Oscar-winning movie [Gladiator](https://www.wikiwand.com/en/Gladiator_(2000_film))
 - I'm (distantly) related to snooker legend [Stephen Hendry](https://www.wikiwand.com/en/Stephen_Hendry)
 
-![Danny Chadburn]({{site.baseurl}}/assets/img/danny.png)
+![Danny Chadburn](/assets/img/danny.png)
 
 <a name="faq"></a>
 
