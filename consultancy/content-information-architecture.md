@@ -15,7 +15,7 @@ Drawing on experience from content strategy, SEO and UX I'll apply the right IA 
 
 There's a lot to factor in when adapting your existing content setup. Hierarchies, structural models, redirects, metadata, microcopy, workflows and tracking. It's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
 
-![ia.jpg]({{site.baseurl}}/assets/img/ia.jpg)
+![ia.jpg](/assets/img/ia.jpg)
 
 My approach is efficient. You can have a brand new IA in as little as 12 weeks. All the necessary audits, plans, frameworks, roadmaps and checklists get delivered on time, and within budget.
 
