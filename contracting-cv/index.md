@@ -20,6 +20,8 @@ Whether you're developing a feature-rich digital product, undertaking a site mig
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://drive.google.com/file/d/1i7DcEVEZHrHPi5TwqTzrfX_4YTOf1i89/preview'></iframe></div>
 
+&nbsp;
+
 #### Do you have a short-term need for someone with my expertise?
 
 I've developed a knack for seamlessley gelling with any team and quickly immersing myself in any situation. [Get in touch](/contact) to discuss how I can help make your project a success.
