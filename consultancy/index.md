@@ -13,8 +13,8 @@ Some copy, etc
 
 > **[Performance Analytics](/consultancy/performance-analytics)** - tbc.
 
-> **[Content Marketing](/consultancy/creative-content-marketin)** - tbc.
+> **[Content Marketing](/consultancy/creative-content-marketing)** - tbc.
 
 > **[Agency Services](/consultancy/tidy-shed-agency-services)** - tbcs.
 
-> **[Mentoring](/consultancy/content-team-mentoring)** - tbc.
+> **[Team Mentoring](/consultancy/content-team-mentoring)** - tbc.
