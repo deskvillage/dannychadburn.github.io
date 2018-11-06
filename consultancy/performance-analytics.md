@@ -26,7 +26,7 @@ This isn’t about yet another expensive tool or ripping up what you’re doing.
 
 ## Custom dashboards that anyone can understand
 
-![data-dashboards.png]({{site.baseurl}}/assets/img/data-dashboards.png)
+![data-dashboards.png](/assets/img/data-dashboards.png)
 
 Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. But they'll all have their own targets and will track different metrics in different ways.
 
