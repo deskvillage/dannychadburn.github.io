@@ -7,9 +7,9 @@ published: true
 
 # The cure for your content
 
-#### I'm Danny, an agile Product Owner and experienced Content Strategist residing in Brighton.
+#### I'm Danny, an agile Product Owner and experienced Content Strategist providing freelance service to businesses in teh UK and beyond.
 
-I've honed my craft with household name brands and digital agencies, launching market-leading products and generating billions of page views. I now free
+I've honed my craft with household name brands and digital agencies, launching market-leading products and generating billions of page views.
 
 Enough [about me](/about), here's what I can do for you:
 
