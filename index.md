@@ -7,24 +7,19 @@ published: true
 
 # The cure for your content
 
-#### I'm Danny, a freelance content consultant from Brighton. I've honed my skills working for household name brands and digital agencies, generating billions of page views.
+#### I'm Danny, an agile Product Owner and experienced Content Strategist residing in Brighton.
 
-Enough [about me](/about), here's what I can do for you:
+I've honed my skills with household name brands and digital agencies, launching market-leading products and generating billions of page views.
 
-- **[Information Architecture](/content-information-architecture)** - putting website content in a better structure
-- **[Campaign Performance Analytics](/content-campaign-analytics)** - data dashboards, frameworks and models providing clear insight
-- **[Content Marketing](/creative-content-marketing)** - planning award-winning creative campaigns for companies and agencies
-- **[Headline Copywriting](/headline-copywriting)** - succinct messages for companies who need to attract attention
+## Enough [about me](/about), here's what I can do for you:
+
+> **[Consulancy](/cosultancy)** - Providing specialist support and advice on [information architechture](/consultancy/content-information-architecture), [performance analytics](/consultancy/performace-analytics) and [content marketing](/consultancy/creative-content-marketing).
+
+> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+
+> **[eBook Creation](/ebook-creation)** - Get a lead magnet for your business with a unique and long-terms asset. I offer a full production, publishing and promotion service.
 
 If any of these services take your fancy, you can [contact me](/contact) via [hello@tidyswan.com](mailto:hello@tidyswan.com) or on <a href="tel:+447720057767">07720 057767</a>.
-
-## What else?
-
-> **[Content Mentoring](/content-mentoring)** - Let me pass on some of my experience to your team, helping them reach their full potential.
-
-> **[Copy Right Now](/copy-right-now)** - Need a headline in a hurry? Place an order for quick turnaround copy that will get you out of a hole.
-
-> **[Beers for Ideas](/beers-for-ideas)** - You buy me some beer, I'll send you an amazing content idea. Seems like a fair trade.
 
 <div>
   <ul class="posts noList">
