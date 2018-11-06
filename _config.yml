@@ -12,8 +12,6 @@ gems: [jekyll-paginate]
 paginate: 0
 
 navigation:
- - title: Home
-   url: /
  - title: Consultancy
    url: /consultancy/
  - title: Contracting
