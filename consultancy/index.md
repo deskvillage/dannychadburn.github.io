@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Consultancy | Tidy Swan
+title: Content Consultancy Services | Tidy Swan
 published: true
 ---
 # Title
@@ -9,12 +9,12 @@ published: true
 
 Some copy, etc
 
-> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+> **[Information Architechture](/content-information-architecture)** - tbc.
 
-> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+> **[Performance Analytics](/performance-analytics)** - tbc.
 
-> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+> **[Content Marketing](/creative-content-marketin)** - tbc.
 
-> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+> **[Agency Services](/tidy-shed-agency-services)** - tbcs.
 
-> **[Contracting](/contracting-cv)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
+> **[Mentoring](/content-team-mentoring)** - tbc.
