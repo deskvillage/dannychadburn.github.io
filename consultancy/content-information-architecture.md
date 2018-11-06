@@ -13,7 +13,7 @@ Drawing on experience from content strategy, SEO and UX I'll apply the right IA 
 
 ## Get organised
 
-There's a lot to factor in when adapting your existing content setup. Hierarchies, structural models, redirects, metadata, [microcopy](/headline-copywriting), workflows and tracking. It's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
+There's a lot to factor in when adapting your existing content setup. Hierarchies, structural models, redirects, metadata, microcopy, workflows and tracking. It's no wonder content migration and domain consolidation projects have a habit of dragging on forever.
 
 ![ia.jpg]({{site.baseurl}}/assets/img/ia.jpg)
 
