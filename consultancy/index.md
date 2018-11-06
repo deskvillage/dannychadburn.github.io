@@ -9,12 +9,12 @@ published: true
 
 Some copy, etc
 
-> **[Information Architechture](/content-information-architecture)** - tbc.
+> **[Information Architechture](/consultancy/content-information-architecture)** - tbc.
 
-> **[Performance Analytics](/performance-analytics)** - tbc.
+> **[Performance Analytics](/consultancy/performance-analytics)** - tbc.
 
-> **[Content Marketing](/creative-content-marketin)** - tbc.
+> **[Content Marketing](/consultancy/creative-content-marketin)** - tbc.
 
-> **[Agency Services](/tidy-shed-agency-services)** - tbcs.
+> **[Agency Services](/consultancy/tidy-shed-agency-services)** - tbcs.
 
-> **[Mentoring](/content-team-mentoring)** - tbc.
+> **[Mentoring](/consultancy/content-team-mentoring)** - tbc.
