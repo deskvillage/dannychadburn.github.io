@@ -19,4 +19,8 @@ I work with clients across various digital marketing disciplines, including:
 
 > **[Team Mentoring](/consultancy/content-team-mentoring)** - inspiring the future stars of your business with 1:1s and group sessions led by someone who's walked in their shoes.
 
-#### If you’d like to find out more, [give me a call](/contact).
+&nbsp;
+
+#### Want to find out more?
+
+<a href="/contact"><button class="button">Get in touch</button></a>
