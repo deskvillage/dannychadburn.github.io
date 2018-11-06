@@ -13,7 +13,7 @@ I've honed my skills with household name brands and digital agencies, launching 
 
 Enough [about me](/about), here's what I can do for you:
 
-> **[Consulancy](/cosultancy/)** - Providing specialist support and advice on [information architechture](/consultancy/content-information-architecture), [performance analytics](/consultancy/performace-analytics) and [content marketing](/consultancy/creative-content-marketing).
+> **[Consulancy](/cosultancy/)** - Providing specialist support and advice on [information architechture](/consultancy/content-information-architecture), [performance analytics](/consultancy/performance-analytics) and [content marketing](/consultancy/creative-content-marketing).
 
 > **[Contracting](/contracting-cv/)** - Need a Product Owner or Content Strategist to lead your project for a set time? Take a look at my credentials.
 
