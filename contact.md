@@ -10,7 +10,7 @@ published: true
 
 Alternativey, email [hello@tidyswan.com](mailto:hello@tidyswan.com) with a few details and I'll respond ASAP.
 
-Want to know more about me? [Check out my FAQ](/about/#faq)
+[Check out my FAQ](/about/#faq) to find out a bit more about me. 
 
 ## Sign up for my ideasletter
 I don't have regular news, but I have no shortage of ideas! These are sporadically sent via email to those who wish to receive my random moments of genius.
