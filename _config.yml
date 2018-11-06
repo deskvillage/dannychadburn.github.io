@@ -13,7 +13,7 @@ paginate: 0
 
 navigation:
  - title: Home
-   url: /index.md
+   url: /index
  - title: Consultancy
    url: /consultancy/
  - title: Contracting
