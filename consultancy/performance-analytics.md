@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content Campaign Analytics | Campaign ROI | Tidy Swan
+title: Performance Analytics | Content Campaign ROI | Tidy Swan
 published: true
 ---
 
