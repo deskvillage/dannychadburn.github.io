@@ -14,14 +14,12 @@ paginate: 0
 navigation:
  - title: Home
    url: /
- - title: Architecture
-   url: /content-information-architecture
- - title: Analytics
-   url: /content-campaign-analytics
- - title: Content Marketing
-   url: /creative-content-marketing
- - title: Copywriting
-   url: /headline-copywriting
+ - title: Consultancy
+   url: /consultancy/
+ - title: Contracting
+   url: /contracting/
+ - title: eBooks
+   url: /ebook-creation/
  - title: About
    url: /about
  - title: Contact
