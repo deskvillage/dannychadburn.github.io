@@ -3,7 +3,7 @@ layout: default
 title: IA, Analytics and Content Marketing Consultancy | Tidy Swan
 published: true
 ---
-# Senior-level support, whenever you need it
+# Pay-as-you-go senior level support
 
 #### Benefit from a practical and personal consultancy that delivers tangible results.
 
