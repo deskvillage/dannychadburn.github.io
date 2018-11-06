@@ -18,7 +18,7 @@ Whether you're developing a feature-rich digital product, undertaking a site mig
 
 <a href="https://drive.google.com/file/d/1i7DcEVEZHrHPi5TwqTzrfX_4YTOf1i89/view" target="_blank"><button class="button">Download PDF</button></a>
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://drive.google.com/file/d/1i7DcEVEZHrHPi5TwqTzrfX_4YTOf1i89/preview'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://drive.google.com/file/d/1i7DcEVEZHrHPi5TwqTzrfX_4YTOf1i89/preview"></iframe></div>
 
 &nbsp;
 
