@@ -5,13 +5,15 @@ published: true
 ---
 # Your biggest lead generator is waiting to be written
 
-#### Business books generate leads. They show people that you know your stuff, and tempt them into wanting to find out more
+#### Business books show off what you know, and tempt them into wanting to find out more.
 
-You're a pretty busy person. While you dream of seeing your name on the cover of a book, that's probably a long way from becoming a reality. Do the smart thing. Hire a ghost writer.
+Invariably, the people in your company who would be most suited to writing a book are the ones with the least available time to do so. Their valuable experiences, opinions and ideas are realistically a long way from being published, which represents a huge missed opportunity ion attracting potential customers.
+
+#### That's where I com in.
 
 Every ghost writing project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide.
 
-While social media has brought about the age of short-form copy, ereaders and .
+While social media has brought about the age of charachter-limited copy, there's been a rejuvinated market for longform content too with eReaders, audiobooks and read-it-later apps. 
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
