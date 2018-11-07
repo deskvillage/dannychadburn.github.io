@@ -13,7 +13,7 @@ Invariably, the people in your company who would be most suited to writing a boo
 
 Every ghost writing project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide.
 
-While social media has brought about the age of charachter-limited copy, there's been a rejuvinated market for longform content too with eReaders, audiobooks and read-it-later apps. 
+While social media has brought about the age of character-limited copy, there's been a rejuvinated market for longform content too with eReaders, audiobooks and read-it-later apps. 
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
