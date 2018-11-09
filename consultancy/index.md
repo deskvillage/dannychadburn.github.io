@@ -9,7 +9,7 @@ published: true
 
 I work with clients across various digital marketing disciplines, including:
 
-> **[Information Architechture](/consultancy/content-information-architecture)** - helping people discover what you have to offer, leading them towards your most lucrative pages.
+> **[Information Architecture](/consultancy/content-information-architecture)** - helping people discover what you have to offer, leading them towards your most lucrative pages.
 
 > **[Performance Analytics](/consultancy/performance-analytics)** - providing clarity on all your campaigns with detailed data frameworks and interactive dashboards.
 
