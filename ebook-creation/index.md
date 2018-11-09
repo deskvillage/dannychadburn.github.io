@@ -87,6 +87,6 @@ With experience in [performance analytics](/consultancy/performance-analytics/),
 ---
 ### Keen to know more?
 
-As each project varies s widely in scope, putting a price on it is difficult without first talking things through. Whether you just have the seed of an idea, or a fully formed 
+As the scope of each eBook project varies so widely, putting a set price on it is difficult without first talking things through. Whether you just have the seed of an idea, or a fully formed structure, give me a call and we'll take it from there.
 
 <a href="/contact"><button class="button">Get in touch</button></a>
