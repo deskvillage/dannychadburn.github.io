@@ -5,7 +5,7 @@ published: true
 ---
 
 
-# Delivering bigger, better websites
+# Delivering your next project
 
 #### I'm Danny, an agile Product Owner and experienced Content Strategist providing freelance services to businesses in the UK and beyond.
 
