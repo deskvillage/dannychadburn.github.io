@@ -20,19 +20,19 @@ Every ebook project is unique, from startups wanting a 7,000 word booklet to mul
 I follow a flexible 6 stage process that will get your shiny new eBook out the door, and have potential new customers coming knocking.
 
 ---
-## 1 - Specification Consultation
+### 1 - Specification Consultation
 
 We make sure you have a viable book and what it will take to create it. This will involve an in-depth conversation covering bothe the concept, and the desired results.
 
 ---
-## 2 - Storyboarding
+### 2 - Storyboarding
 
 Your book can start from anything. If you have presentation slides or some scribbled notes, that's enough to get going. Every good book (both fictioon and non-fiction) has a stong story arc, so we'll map out exactly what the beginning, middle and end looks like.
 
 We'll flesh out the original idea, and determine the specific messages and inputs required to complete each chapter, and create a real page-turner. This will consist of approximately 10 to 20 pages, and provide the blueprint from which the ebook takes shape.
 
 ---
-## 3 - Interviews
+### 3 - Interviews
 
 The best way to get your ideas and expertise out of your head and onto paper is to talk them through. I'll conduct detailed interviews either in person or over the phone with all the people who need to contribute to your book, recording the conversations to later convert into the mmanuscript. With extensibve editorial expertise, I'm a seasoned interviewer adept at extracting the necessary info from evemn the most guarded of interviewees.
 
@@ -41,14 +41,14 @@ Depending on the detail of each topic, this may consist of a couple or several c
 Most importantly, they all have three traits in common: they’re great interviewers, they’re great writers, and they care deeply about books.
 
 ---
-## 4 - Editing
+### 4 - Editing
 
 The interview transcripts will be converted into a narrative following the agreed storybopard. I'll adopt a tone that represents your business perfectly, pulling together all the different views and opinions into a cohesive prose.
 
 This is usually the most tim-intensive part of the process, however there will be regular communication throughout with draft chapters supplied as collaborative documents for live review and comment.
 
 ---
-## 5 - Publishing
+### 5 - Publishing
 
 And once the writing is complete, we can progress to the design and promote your book.
 
@@ -60,8 +60,8 @@ Completed Book Manuscript - Your ideas, correctly structured and positioned into
 
 #### eBook Formats 
 
-- .epub - used by 
-- .pdf - 
+- **.epub** - used by Kindle, iBooks and Google Play Books, so your custoemrs can absorb your book wherever and whenever they desire.
+- **.pdf** - the standard in digital publishing, that will work neatly on laptops, desktops or even in print if you want your eBook to take a physical form.
 
 Printing services available on request.
 
@@ -71,7 +71,8 @@ Printing services available on request.
 
 ![ebooks.png](/assets/img/ebooks.png)
 
-## 6 - Distribution, Promotion and Analysis
+---
+### 6 - Distribution, Promotion and Analysis
 
 The most important part of your eBook (even more essential than the words) is how people find it. I will help you create and optimise a landing page, with a mechanism that will generate the customer information you're looking to obtain.
 
@@ -85,7 +86,7 @@ With experience in [performance analytics](/consultancy/performance-analytics/),
 - Blog posts created for your site and an industry new site
 
 ---
-### Keen to know more?
+## Keen to know more?
 
 As the scope of each eBook project varies so widely, putting a set price on it is difficult without first talking things through. Whether you just have the seed of an idea, or a fully formed structure, give me a call and we'll take it from there.
 
