@@ -5,6 +5,8 @@ url: http://tidyswan.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+plugins:
+  - jekyll-sitemap
 
 markdown: kramdown
 highlighter: rouge
