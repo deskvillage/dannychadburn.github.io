@@ -11,13 +11,13 @@ All companies want to be seen as leaders in their industry; the ones who are inn
 
 That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks have proven an efficient and effective way of spreading the word to the right audience. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
 
-It's often a struggle to turn their valuable experiences, opinions and ideas into a blog post, let alonge something more substantial.
+It's often a struggle to turn their valuable experiences, opinions and ideas into a blog post, let alone something more substantial.
 
 #### It's time to realise this missed opportunity
 
-I produce simple but powerful eBooks, extracting key infomration from your management team and topic specialists. Using an agile development process, your shiny new eBook can be ready to be shared with the world in just 4-6 weeks,
+I produce engaining and powerful eBooks, extracting key infomration from your management team and topic specialists. Using an agile development process, your shiny new eBook can be ready to be shared with the world in just 4-6 weeks,
 
-Every ebook project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and can produce and publish something that will resonate with the market, and give you the results you're looking for.
+Every project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and can produce and publish something that will resonate with the market, and give you the results you're looking for.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
@@ -29,19 +29,21 @@ The usual process consists of six stages:
 ### 1 - Specification Consultation
 _1-2 hours_
 
-An informal chat over a coffee to ensure you have a viable book project. We'll go through a few concepts, what it will take to create it, what else is already out there, and what a successful result would look like.
+During an informal chat over a coffee, we'll ensure you have a viable book project. The discussion will cover a few outline concepts, what it will take to create the book, what else is already out there, and what a successful result would look like.
 
 I'll also dig into search and social trends to see what topics people are looking for, and how likely they are to be successfully distributed.
 
-**This stage is 100% free - [get in touch now](/contact) to arrange a meeting.**
+**This kickoff is 100% free - [get in touch now](/contact) to arrange a meeting.**
 
 ---
 ### 2 - Storyboarding
 _1-2 days_
 
-Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a stong story arc, so we'll spend some time with Sharpies and Post-Its mapping out exactly what the beginning, middle and end looks like.
+Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a stong story arc, so we'll get out a few Sharpies and Post-Its and map out exactly what the beginning, middle and end looks like.
 
-We'll flesh out the original idea, and determine the specific messages and inputs required to complete each chapter, and create a real page-turner. This will consist of approximately 10 to 20 pages, and provide the blueprint from which the ebook takes shape.
+We'll flesh out the original idea, breaking down the narrative so each chapter builds into a real page-turner. Even if someone doesn't make it the whole way through your book, the idea is to share a series of strong messages throughout.
+
+You'll be given a blueprint of 10-15 pages to share with your colleages and sign-off before we enter the next phase.
 
 ---
 ### 3 - Interviews
