@@ -1,31 +1,37 @@
 ---
 layout: default
-title: Content Information Architecture | Tidy Swan
+title: eBook Writing and Publishing | Tidy Swan
 published: true
 ---
 # Your biggest lead generator is waiting to be written
 
-#### Business books show off what you know, and tempt people into wanting to find out more.
+#### Show off your expertise and have new customers lining up at your door
 
-Invariably, the people in your company who would be most suited to writing a book are the ones with the least available time to do so. Their valuable experiences, opinions and ideas are realistically a long way from being published, which represents a huge missed opportunity ion attracting potential customers.
+All companies want to be seen as leaders in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
 
-#### That's where I come in.
+That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks have proven an efficient and effective way of spreading the word to the right audience. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
 
-Every ebook project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and know exactly how to produce and publish something that will resonate with your audience.
+It's often a struggle to turn their valuable experiences, opinions and ideas into a blog post, let alonge something more substantial.
+
+#### I'll help you realise this missed opportunity
+
+Every ebook project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and know exactly how to produce and publish something that will resonate, and give you the results you're looking for.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
 ![diy-content-marketing-strategy.jpg](/assets/img/diy-content-marketing-strategy.jpg)
 
-I follow a flexible 6 stage process that will get your shiny new eBook out the door, and have potential new customers coming knocking.
+Using an agile development process, your shiny new eBook can be ready to go within 4-6 weeks,
 
 ---
 ### 1 - Specification Consultation
+_1-2 hours_
 
 We make sure you have a viable book and what it will take to create it. This will involve an in-depth conversation covering bothe the concept, and the desired results.
 
 ---
 ### 2 - Storyboarding
+_1-2 days_
 
 Your book can start from anything. If you have presentation slides or some scribbled notes, that's enough to get going. Every good book (both fictioon and non-fiction) has a stong story arc, so we'll map out exactly what the beginning, middle and end looks like.
 
@@ -33,6 +39,7 @@ We'll flesh out the original idea, and determine the specific messages and input
 
 ---
 ### 3 - Interviews
+_4-6 hours_
 
 The best way to get your ideas and expertise out of your head and onto paper is to talk them through. I'll conduct detailed interviews either in person or over the phone with all the people who need to contribute to your book, recording the conversations to later convert into the mmanuscript. With extensibve editorial expertise, I'm a seasoned interviewer adept at extracting the necessary info from evemn the most guarded of interviewees.
 
@@ -42,6 +49,7 @@ Most importantly, they all have three traits in common: they’re great intervie
 
 ---
 ### 4 - Editing
+_2-3 weeks_
 
 The interview transcripts will be converted into a narrative following the agreed storybopard. I'll adopt a tone that represents your business perfectly, pulling together all the different views and opinions into a cohesive prose.
 
@@ -49,6 +57,7 @@ This is usually the most tim-intensive part of the process, however there will b
 
 ---
 ### 5 - Publishing
+_3-4 days_
 
 And once the writing is complete, we can progress to the design and promote your book.
 
@@ -73,6 +82,7 @@ Printing services available on request.
 
 ---
 ### 6 - Distribution, Promotion and Analysis
+_1-2 days_
 
 The most important part of your eBook (even more essential than the words) is how people find it. I will help you create and optimise a landing page, with a mechanism that will generate the customer information you're looking to obtain.
 
@@ -88,6 +98,8 @@ With experience in [performance analytics](/consultancy/performance-analytics/),
 ---
 ## Keen to know more?
 
-As the scope of each eBook project varies so widely, putting a set price on it is difficult without first talking things through. Whether you just have the seed of an idea, or a fully formed structure, give me a call and we'll take it from there.
+As the scope of each eBook project varies so widely, putting a set price on it is difficult without first talking things through. As a rough guide, a budget of around £4-7,000 would cover the scope of the process outlines above.
+
+Whether you just have the seed of an idea, or a fully formed ebook structure, give me a call and we'll take it from there.
 
 <a href="/contact"><button class="button">Get in touch</button></a>
