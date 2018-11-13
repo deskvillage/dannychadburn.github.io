@@ -13,27 +13,33 @@ That comes from sharing the knowledge and experience of intelligent and inspirat
 
 It's often a struggle to turn their valuable experiences, opinions and ideas into a blog post, let alonge something more substantial.
 
-#### I'll help you realise this missed opportunity
+#### It's time to realise this missed opportunity
 
-Every ebook project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and know exactly how to produce and publish something that will resonate, and give you the results you're looking for.
+I produce simple but powerful eBooks, extracting key infomration from your management team and topic specialists. Using an agile development process, your shiny new eBook can be ready to be shared with the world in just 4-6 weeks,
+
+Every ebook project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and can produce and publish something that will resonate with the market, and give you the results you're looking for.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
 ![diy-content-marketing-strategy.jpg](/assets/img/diy-content-marketing-strategy.jpg)
 
-Using an agile development process, your shiny new eBook can be ready to go within 4-6 weeks,
+The usual process consists of six stages:
 
 ---
 ### 1 - Specification Consultation
 _1-2 hours_
 
-We make sure you have a viable book and what it will take to create it. This will involve an in-depth conversation covering bothe the concept, and the desired results.
+An informal chat over a coffee to ensure you have a viable book project. We'll go through a few concepts, what it will take to create it, what else is already out there, and what a successful result would look like.
+
+I'll also dig into search and social trends to see what topics people are looking for, and how likely they are to be successfully distributed.
+
+**This stage is 100% free - [get in touch now](/contact) to arrange a meeting.**
 
 ---
 ### 2 - Storyboarding
 _1-2 days_
 
-Your book can start from anything. If you have presentation slides or some scribbled notes, that's enough to get going. Every good book (both fictioon and non-fiction) has a stong story arc, so we'll map out exactly what the beginning, middle and end looks like.
+Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a stong story arc, so we'll spend some time with Sharpies and Post-Its mapping out exactly what the beginning, middle and end looks like.
 
 We'll flesh out the original idea, and determine the specific messages and inputs required to complete each chapter, and create a real page-turner. This will consist of approximately 10 to 20 pages, and provide the blueprint from which the ebook takes shape.
 
