@@ -21,8 +21,10 @@ Every project is unique, from startups wanting a 7,000 word booklet to multinati
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
-![diy-content-marketing-strategy.jpg](/assets/img/diy-content-marketing-strategy.jpg)
-<figcaption>Example caption</figcaption>
+<figure>
+ <img src="/assets/img/diy-content-marketing-strategy.jpg" alt="">
+	<figcaption>Example caption</figcaption>
+</figure>
 
 The usual process consists of six stages:
 
