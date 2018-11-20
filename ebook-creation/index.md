@@ -83,16 +83,10 @@ You'll retain all rights and ownership of the book and I will coordinate various
 
 Printing services are also available on request should you wish for your book to take a physical form.
 
- distribution goals 
-
-
-
-
-
-
-
-![ebooks.png](/assets/img/ebooks.png)
-<figcaption>Example caption <a href="#">with link</a></figcaption>
+<figure>
+ <img src="/assets/img/ebooks.png" alt="">
+	<figcaption>Example caption <a href="#">with link</a></figcaption>
+</figure>
 
 ---
 ### 6 - Distribution, Promotion and Analysis
