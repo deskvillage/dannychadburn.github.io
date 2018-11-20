@@ -3,25 +3,26 @@ layout: default
 title: eBook Writing and Publishing | Tidy Swan
 published: true
 ---
-# Your biggest lead generator is waiting to be written
+# Put your ideas in your customers' hands
 
-#### Show off your expertise and have new customers lining up at your door
+#### Your biggest lead generator is waiting to be written
 
-All companies want to be seen as leaders in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
+All companies want to be seen as pioneers in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
 
-That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks have proven an efficient and effective way of spreading the word to the right audience. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
+That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks have proven an efficient and effective way of spreading the word to the right audiences. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
 
-It's often a struggle to turn their valuable experiences, opinions and ideas into a blog post, let alone something more substantial.
+It's often a struggle to turn their valuable experiences, opinions and ideas into a simple blog post, let alone something more substantial.
 
-#### It's time to realise this missed opportunity
+#### It's time to realise this missed opportunity, show off your expertise and have new customers lining up at your door
 
-I produce engaining and powerful eBooks, extracting key infomration from your management team and topic specialists. Using an agile development process, your shiny new eBook can be ready to be shared with the world in just 4-6 weeks,
+I produce engaining and powerful eBooks, extracting key infomration from your senior team and topic specialists. Using an [agile development](/contracting-cv/) process, your shiny new eBook can be ready in just 4-6 weeks,
 
-Every project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tacked both ends of that spectrum and can produce and publish something that will resonate with the market, and give you the results you're looking for.
+Every project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tackled both ends of that spectrum, and will produce and publish an asset that resonates with the market, giving you the results you're looking for.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
 ![diy-content-marketing-strategy.jpg](/assets/img/diy-content-marketing-strategy.jpg)
+<figcaption>Example caption</figcaption>
 
 The usual process consists of six stages:
 
@@ -29,9 +30,9 @@ The usual process consists of six stages:
 ### 1 - Specification Consultation
 _1-2 hours_
 
-During an informal chat over a coffee, we'll ensure you have a viable book project. The discussion will cover a few outline concepts, the logistics of what it will take to create the book, what else is already out there on the topic, and what a successful result would look like.
+During an informal chat over a coffee, we'll ensure you have a viable book project. The discussion will cover a few outline concepts, the logistics of what it'll take to create the book, what else is already out there on the topic, and what a successful result would look like.
 
-I'll also dig into search and social trends to see what topics people are looking for, and how likely they are to be successfully distributed.
+I'll also dig into search and social trends to see what topics people are looking for, and how likely it is your book will get the attention it deserves.
 
 **This kickoff is 100% free - [get in touch now](/contact) to arrange a meeting.**
 
@@ -41,25 +42,25 @@ _1-2 days_
 
 Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a stong story arc, so we'll get out a few Sharpies and Post-Its and map out exactly what the beginning, middle and end looks like.
 
-We'll flesh out the original idea, breaking down the narrative so each chapter builds into a real page-turner. Even if someone doesn't make it the whole way through your book in one sitting, the idea is to share a series of strong messages throughout.
+We'll flesh out the original idea, breaking down the narrative so each chapter builds into a real page-turner. Even if someone doesn't make it the whole way through your book in one sitting, there will be a series of strong messages scattered throughout.
 
-You'll be given a blueprint of 10-15 pages to share with your colleages, with a sign-off milestone to take us into the next phase.
+You'll be given a blueprint of 10-15 pages to share with your colleages, with a sign-off milestone to take us into the core developemnt phase.
 
 ---
 ### 3 - Interviews
 _4-6 hours_
 
-The best way to get ideas out of your head and onto paper is to talk them through. I'll conduct individual interviews (either in person or over the phone) with all the people who need to contribute to your book, recording the conversations to later convert into a mmanuscript.
+The best way to get ideas out of your head and onto paper is to talk them through. I'll conduct a series of individual interviews (either in person or over the phone) with all the people who need to contribute to your book, recording the conversations to later convert into a mmanuscript.
 
-With extensibve editorial experience, I'm a seasoned interviewer adept at extracting the necessary info from evemn the most guarded of interviewees.
+With extensibve editorial experience, I'm a seasoned interviewer adept at extracting the necessary info from even the most guarded of interviewees.
 
-Depending on the complexity of each topic, this may consist of a couple or several conversations. My background covers a variety of digital marketing disciplines, so can get to grips with any topic with ease. I'm can be as flexible as required to fit around busy and unpredictable schedules.
+Depending on the complexity of each topic, this may consist of several conversations. My background covers a variety of digital marketing disciplines, so can get to grips with any topic with ease. I can be as flexible as required to fit around busy and unpredictable schedules.
 
 ---
 ### 4 - Editing
 _2-3 weeks_
 
-With the interview transcripts down on tape, I'll craft the bulk of your book following the agreed storybopard. We'll have discussed and agreed the appropriate tone and pitch to adopt so it reflects your business, and is at the right level for the intended audience.
+With the interview transcripts down on tape, I'll craft the bulk of your book following the agreed storybopard. We'll have discussed and agreed the appropriate tone to adopt so it reflects your business, and is pitched at the right level for the intended audience.
 
 This is usually the most time-intensive part of the process, however there will be regular communication throughout with draft chapters supplied as collaborative documents for live review and comment.
 
@@ -67,29 +68,29 @@ This is usually the most time-intensive part of the process, however there will 
 ### 5 - Publishing
 _3-4 days_
 
-Once a final sign-off has been provided on the copy, we can progress to the fun bit - designing and promoting your book.
+Once a final sign-off has been provided on the copy, we'll add a bit of polish and start promoting your book!
 
-I'll work with design professionals (either from your company or someone I'd source) working to your brand guidelines) to create a beautiful cover and help polish the typesetting. The resulting assets will integrate neatly into your site, and be optimised for use on eBook stores and various social media.
+I'll work with design professionals (either from within your company or someone I'd source) to create a beautiful cover and promotional assets that reflect your brand guidelines. The resulting assets will integrate neatly into your site, and be optimised for use on eBook stores and various social media.
 
-#### The exported file will be provided in two eBook formats 
+You'll retain all rights and ownership of the book and I will coordinate various publishing details (ISBN, typesetting, etc) so it's well optimised for Amazon Kindle, Apple iBooks, Nook, Kobo, Google Play and mony other digital book stores.
+
+#### The exported file will be provided in two eBook formats:
 
 - **.epub** - used by Kindle, iBooks and Google Play Books, so your custoemrs can absorb your book wherever and whenever they desire.
-- **.pdf** - the standard in digital publishing, that will work neatly on laptops, desktops or even in print if you want your eBook to take a physical form.
+- **.pdf** - the standard in digital publishing that will work neatly on laptops, desktops or print
+
+Printing services are also available on request should you wish for your book to take a physical form.
+
+ distribution goals 
 
 
-The team will also work with you to determine your distribution goals and retail channels—whether you want to be exclusively on Amazon or available on as many international platforms as possible, they will provide the best options for you, handle all account and file creation, and upload your book in preparation of your launch.
-
-Completed Book Manuscript - Your ideas, correctly structured and positioned into the best possible book
 
 
 
-Printing services available on request.
 
-- A beautifully designed cover and interior layout
-- Full coordination of all publishing details (ISBN, bio, description, etc.)
-- You retain all rights and ownership of the book
 
 ![ebooks.png](/assets/img/ebooks.png)
+<figcaption>Example caption <a href="#">with link</a></figcaption>
 
 ---
 ### 6 - Distribution, Promotion and Analysis
