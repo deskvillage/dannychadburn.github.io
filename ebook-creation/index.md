@@ -78,8 +78,9 @@ You'll retain all rights and ownership of the book and I will coordinate various
 
 #### The exported file will be provided in two eBook formats:
 
-- **.epub** - used by Kindle, iBooks and Google Play Books, so your custoemrs can absorb your book wherever and whenever they desire.
-- **.pdf** - the standard in digital publishing that will work neatly on laptops, desktops or print
+- **.epub** - the most widely used ebook format, allowing custoemrs to absorb your book wherever and whenever they desire.
+- **.mobi** - specifically for the Amazon store and Kindle devices - a massive potential audience.
+- **.pdf** - the standard in digital publishing that will work neatly on laptops, desktops or print.
 
 Printing services are also available on request should you wish for your book to take a physical form.
 
