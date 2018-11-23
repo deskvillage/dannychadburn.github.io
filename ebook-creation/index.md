@@ -17,7 +17,7 @@ However, the individuals within your company with the most interesting stories t
 
 I produce engaging and powerful eBooks, extracting the wisdom of your senior team and topic specialists. Using an [agile development](/contracting-cv/) process, your shiny new eBook can be ready in just 4-6 weeks,
 
-From startups wanting a 7,000 word booklet to multinationals needing a 70,000 word advanced guide, I produce and publish assets that resonate with audiences.
+From startups wanting a small booklet to multinationals needing an advanced guide, I produce and publish assets that resonate with audiences.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
@@ -46,15 +46,15 @@ Your book can start from anything. If you have some old presentation slides or a
 
 We'll flesh out the original idea, breaking down the narrative so each chapter builds into a real page-turner. Even if someone doesn't make it the whole way through your book in one sitting, there will be a series of strong messages scattered throughout.
 
-You'll be given a blueprint of 10-15 pages to share with your colleages, with a sign-off milestone to take us into the core developemnt phase.
+You'll be given a blueprint of 10-15 pages to share with your colleagues, with a sign-off milestone to take us into the core development phase.
 
 ---
 ### 3 - Interviews
 _4-6 hours_
 
-The best way to get ideas out of your head and onto paper is to talk them through. I'll conduct a series of individual interviews (either in person or over the phone) with all the people who need to contribute to your book, recording the conversations to later convert into a mmanuscript.
+The best way to get ideas out of your head and onto paper is to talk them through. I'll conduct a series of individual interviews (either in person or over the phone) with all the people who need to contribute to your book, recording the conversations to later convert into a manuscript.
 
-With extensibve editorial experience, I'm a seasoned interviewer adept at extracting the necessary info from even the most guarded of interviewees.
+With extensive editorial experience, I'm a seasoned interviewer adept at extracting the necessary info from even the most guarded of interviewees.
 
 Depending on the complexity of each topic, this may consist of several conversations. My background covers a variety of digital marketing disciplines, so can get to grips with any topic with ease. I can be as flexible as required to fit around busy and unpredictable schedules.
 
@@ -62,9 +62,9 @@ Depending on the complexity of each topic, this may consist of several conversat
 ### 4 - Editing
 _2-3 weeks_
 
-With the interview transcripts down on tape, I'll craft the bulk of your book following the agreed storybopard. We'll have discussed and agreed the appropriate tone to adopt so it reflects your business, and is pitched at the right level for the intended audience.
+With the interview transcripts down on tape, I'll craft the bulk of your book following the agreed storyboard. It will adopt an appropriate tone so it reflects your business, and be pitched at the right level for the intended audience.
 
-This is usually the most time-intensive part of the process, however there will be regular communication throughout with draft chapters supplied as collaborative documents for live review and comment.
+This is usually the most time-intensive part of the process, however, there will be regular communication throughout with draft chapters supplied as collaborative documents for live review and comment.
 
 ---
 ### 5 - Publishing
@@ -74,11 +74,11 @@ Once a final sign-off has been provided on the copy, we'll add a bit of polish a
 
 I'll work with design professionals (either from within your company or one of my trusted contacts) to create a beautiful cover and promotional images that reflect your brand guidelines. The resulting assets will integrate neatly into your site, and be optimised for use on eBook stores and various social networks.
 
-You'll retain all rights and ownership of the book and I will coordinate various publishing details (ISBN, metadata, etc) so it's set up for Amazon Kindle, Apple iBooks, Nook, Kobo, Google Play and mony other digital libraries.
+You'll retain all rights and ownership of the book and I will coordinate various publishing details (ISBN, metadata, etc) so it's set up for Amazon Kindle, Apple iBooks, Nook, Kobo, Google Play and many other digital libraries.
 
 #### The exported file will be provided in various eBook formats:
 
-- **.epub** - the most widely used ebook format, allowing custoemrs to absorb your book wherever and whenever they desire.
+- **.epub** - the most widely used ebook format, allowing customers to absorb your book wherever and whenever they desire.
 - **.mobi** - specifically for the Amazon store and Kindle devices - a massive potential audience.
 - **.pdf** - the standard in digital publishing that will work neatly on laptops, desktops or print.
 
@@ -111,6 +111,6 @@ With experience in [performance analytics](/consultancy/performance-analytics/),
 
 As the scope of each project varies so widely, putting a set price on it is difficult without first talking things through. As a rough guide, a £4,000-£7,000 budget would cover much of what I've outlined above.
 
-Whether you just have the seed of an idea, or a fully formed ebook structure that needs finishing, give me a call and we'll take it from there.
+Whether you just have the seed of an idea or a fully formed ebook structure that needs finishing, give me a call and we'll take it from there.
 
 <a href="/contact"><button class="button">Get in touch</button></a>
