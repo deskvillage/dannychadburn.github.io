@@ -9,7 +9,7 @@ published: true
 
 All companies want to be seen as pioneers in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
 
-That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks have proven an efficient and effective way of spreading the word to the right audiences. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
+That presence  comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks are an efficient and proven way of spreading the word to the right audiences. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
 
 It's often a struggle to turn their valuable experiences, opinions and ideas into a simple blog post, let alone something more substantial.
 
@@ -23,7 +23,7 @@ Every project is unique, from startups wanting a 7,000 word booklet to multinati
 
 <figure>
  <img src="/assets/img/diy-content-marketing-strategy.jpg" alt="">
-	<figcaption>Example caption</figcaption>
+ <figcaption>Written for <a href="https://www.ayima.com/" target="_blank">Ayima</a></figcaption>
 </figure>
 
 The usual process consists of six stages:
@@ -72,11 +72,11 @@ _3-4 days_
 
 Once a final sign-off has been provided on the copy, we'll add a bit of polish and start promoting your book!
 
-I'll work with design professionals (either from within your company or someone I'd source) to create a beautiful cover and promotional assets that reflect your brand guidelines. The resulting assets will integrate neatly into your site, and be optimised for use on eBook stores and various social media.
+I'll work with design professionals (either from within your company or one of my trusted contacts) to create a beautiful cover and promotional images that reflect your brand guidelines. The resulting assets will integrate neatly into your site, and be optimised for use on eBook stores and various social networks.
 
-You'll retain all rights and ownership of the book and I will coordinate various publishing details (ISBN, typesetting, etc) so it's well optimised for Amazon Kindle, Apple iBooks, Nook, Kobo, Google Play and mony other digital book stores.
+You'll retain all rights and ownership of the book and I will coordinate various publishing details (ISBN, metadata, etc) so it's set up for Amazon Kindle, Apple iBooks, Nook, Kobo, Google Play and mony other digital libraries.
 
-#### The exported file will be provided in two eBook formats:
+#### The exported file will be provided in various eBook formats:
 
 - **.epub** - the most widely used ebook format, allowing custoemrs to absorb your book wherever and whenever they desire.
 - **.mobi** - specifically for the Amazon store and Kindle devices - a massive potential audience.
@@ -86,29 +86,31 @@ Printing services are also available on request should you wish for your book to
 
 <figure>
  <img src="/assets/img/ebooks.png" alt="">
-	<figcaption>Example caption <a href="#">with link</a></figcaption>
+ <figcaption>Written for <a href="https://www.icrossing.com/uk/" target="_blank">iCrossing/a></figcaption>
 </figure>
 
 ---
 ### 6 - Distribution, Promotion and Analysis
 _1-2 days_
 
-The most important part of your eBook (even more essential than the words) is how people find it. I will help you create and optimise a landing page, with a mechanism that will generate the customer information you're looking to obtain.
+The most important part of your eBook (even more essential than the words) is how people find it. I'll work with your developers to create and optimise a landing page, including a mechanism that will generate the customer information you're looking to obtain.
 
-With experience in [performance analytics](/consultancy/performance-analytics/), I know how to set things up to track the exact value of every visit from first inetraction all the way to conversion, so you can get a true ROI.
+#### To help your book get the attention it deserves, I offer various promotional options:
+- Advance copies sent to industry influencers, with their feedback quotes used for promotion
+- A full press kit created for your book launch, including a distribution list of key contacts
+- Arranging a podcast interview on you and your book
+- Eyecatching social media copy and graphics designed to the specs of each channel
+- Articles and blog posts created for your site and various industry news media
 
-#### Optional Pre Launch Promotions
-- Advance copies sent to likely interested readers - quotes aquired for promotion
-- A full press kit for your book with keyt distribution list
-- A full set of social media posts and graphics based on teh book cover
-- A scheduled podcast interview on you and your book?
-- Blog posts created for your site and an industry new site
+With experience in [performance analytics](/consultancy/performance-analytics/), I know how to set things up to track the exact value of every visit from the first click all the way to conversion. You'll get an interactive dashboard mapping out each customer acquisition channel in detail, and if you've decided to sell your book rather than share it for free, you'll get live access to an earnings report broken down by distributor.
+
+#### This isn't just an eBook - it's a powerful marketing tool with a clear ROI
 
 ---
 ## Keen to know more?
 
-As the scope of each eBook project varies so widely, putting a set price on it is difficult without first talking things through. As a rough guide, a budget of around £4-7,000 would cover the scope of the process outlines above.
+As the scope of each project varies so widely, putting a set price on it is difficult without first talking things through. As a rough guide, a £4,000-£7,000 budget would cover much of what I've outlined above.
 
-Whether you just have the seed of an idea, or a fully formed ebook structure, give me a call and we'll take it from there.
+Whether you just have the seed of an idea, or a fully formed ebook structure that needs finishing, give me a call and we'll take it from there.
 
 <a href="/contact"><button class="button">Get in touch</button></a>
