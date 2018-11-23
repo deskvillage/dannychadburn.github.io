@@ -14,7 +14,7 @@ So while there is a basic process I follow (plan, produce, publish, promote), ev
 
 I'd be lying if I said everything I've ever worked on has been a runaway success. However, I do have an impressive hit rate of getting it right.
 
-That’s because I know how to blend content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever you customer, I'll find the right hook to deliver on your objectives.
+That’s because I know how to blend content, marketing, SEO, PR, social media and innovative new technology to deliver something the audience can latch onto. Whatever your product, whatever your industry, whoever your customer, I'll find the right hook to deliver on your objectives.
 
 And most importantly, I make sure [data](/consultancy/performance-analytics) is considered at every stage. You'll never be sat thinking _"But what about the ROI?"_ once the coverage dust has settled.
 
