@@ -20,4 +20,4 @@ Whether you're developing a feature-rich digital product, undertaking a site mig
 
 #### Do you have a short-term need for someone with my expertise?
 
-I've developed a knack for seamlessley gelling with any team and quickly immersing myself in any situation. [Get in touch](/contact) to discuss how I can help make your project a success.
+I've developed a knack for seamlessly gelling with any team and quickly immersing myself in any situation. [Get in touch](/contact) to discuss how I can help make your project a success.
