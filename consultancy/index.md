@@ -15,7 +15,7 @@ I work with clients across various digital marketing disciplines, including:
 
 > **[Content Marketing](/consultancy/creative-content-marketing)** - planning and executing award-winning campaigns with creative assets your audience will latch onto.
 
-> **[Agency Services](/consultancy/tidy-shed-agency-services)** - turbocharging your agency with on-call pitch support and extensive experience in client problem solving.
+> **[Agency Services](/consultancy/tidy-shed-agency-services)** - turbocharging your agency with on-call pitch support and extensive experience in client problem-solving.
 
 > **[Team Mentoring](/consultancy/content-team-mentoring)** - inspiring the future stars of your business with 1:1s and group sessions led by someone who's walked in their shoes.
 
