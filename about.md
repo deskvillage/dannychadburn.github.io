@@ -8,7 +8,7 @@ published: true
 
 <a href="#facts">Facts</a> / <a href="#faq">FAQ</a> / <a href="#why">Why Tidy Swan?</a>
 
-#### Since the late 90s I've been working in digital marketing. I've generated billions of page views for household name companies, global agencies, government funded charities and fledgling startups.
+#### Since the late 90's I've been working in digital marketing. I've generated billions of page views for household name companies, global agencies, government-funded charities and fledgling startups.
 
 It seemed unfair to limit all that experience to just one employer. So I'm now a freelance consultant offering [IA](/content-information-architecture), [performance analysis](/content-campaign-analytics) and [content marketing](/creative-content-marketing) services to companies of all shapes and sizes.
 
@@ -55,12 +55,12 @@ No. I have a penchant for technology and sport, but I've plied my trade in prett
 Prices start at £400 a day, but could be double that depending on the nature of each project.
 
 #### Do you work pro-bono?
-I have done, and would do again for the right cause. [Send me a pitch](/contact)!
+I have done and would do again for the right cause. [Send me a pitch](/contact)!
 
 #### Do you know an expert in branding, design, SEO, UX, etc?
 Probably! [Give me a shout](/contact) and I'll try and hook you up with a talented individual.
 
-#### Will you work in my city / country?
+#### Will you work in my city/country?
 Sure, if you'll cover the travel costs (don't worry, I'm happy in standard class). Just to warn you, English is my sole language.
 
 ### Anything else you'd like to know?
