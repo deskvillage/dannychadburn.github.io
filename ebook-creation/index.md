@@ -7,17 +7,17 @@ published: true
 
 #### Your biggest lead generator is waiting to be written
 
-All companies want to be seen as pioneers in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
+All companies want to be recognised as pioneers in their industry; the ones who are innovating, pushing boundaries and setting the standards to which others aspire.
 
-That presence  comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks are an efficient and proven way of spreading the word to the right audiences. However, the individuals within your company with the most interesting stories to tell are invariably those with the least available time to do so.
+That comes from sharing the knowledge and experience of intelligent and inspirational people, and eBooks are an efficient and proven way of spreading your brand message.
 
-It's often a struggle to turn their valuable experiences, opinions and ideas into a simple blog post, let alone something more substantial.
+However, the individuals within your company with the most interesting stories to tell are often those with the least available time to do so. It's a struggle to turn their valuable experiences, opinions and ideas into a simple blog post, let alone something more substantial.
 
 #### It's time to realise this missed opportunity, show off your expertise and have new customers lining up at your door
 
-I produce engaining and powerful eBooks, extracting key infomration from your senior team and topic specialists. Using an [agile development](/contracting-cv/) process, your shiny new eBook can be ready in just 4-6 weeks,
+I produce engaging and powerful eBooks, extracting the wisdom of your senior team and topic specialists. Using an [agile development](/contracting-cv/) process, your shiny new eBook can be ready in just 4-6 weeks,
 
-Every project is unique, from startups wanting a 7,000 word booklet to multinationals putting together a 70,000 word advanced guide. I've tackled both ends of that spectrum, and will produce and publish an asset that resonates with the market, giving you the results you're looking for.
+From startups wanting a 7,000 word booklet to multinationals needing a 70,000 word advanced guide, I produce and publish assets that resonate with audiences.
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
@@ -32,9 +32,9 @@ The usual process consists of six stages:
 ### 1 - Specification Consultation
 _1-2 hours_
 
-During an informal chat over a coffee, we'll ensure you have a viable book project. The discussion will cover a few outline concepts, the logistics of what it'll take to create the book, what else is already out there on the topic, and what a successful result would look like.
+During an informal chat over a coffee, we'll ensure you have a viable book project. The discussion will cover a few outline concepts, the logistics of what it'll take to create the book, other books that already cover the topic, and what a successful result would look like.
 
-I'll also dig into search and social trends to see what topics people are looking for, and how likely it is your book will get the attention it deserves.
+I'll also dig into search and social trends to see what people are looking for, and how likely it is your book will get the attention it deserves.
 
 **This kickoff is 100% free - [get in touch now](/contact) to arrange a meeting.**
 
@@ -42,7 +42,7 @@ I'll also dig into search and social trends to see what topics people are lookin
 ### 2 - Storyboarding
 _1-2 days_
 
-Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a stong story arc, so we'll get out a few Sharpies and Post-Its and map out exactly what the beginning, middle and end looks like.
+Your book can start from anything. If you have some old presentation slides or a few scribbled notes, that's enough to get going. Every good book (both fiction and non-fiction) has a strong story arc, so we'll get out a few Sharpies and Post-Its and map out exactly what the beginning, middle and end looks like.
 
 We'll flesh out the original idea, breaking down the narrative so each chapter builds into a real page-turner. Even if someone doesn't make it the whole way through your book in one sitting, there will be a series of strong messages scattered throughout.
 
