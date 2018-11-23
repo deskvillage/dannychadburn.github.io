@@ -33,8 +33,8 @@ From both in-house and agency side, I’ve worked across automotive, telecoms, h
 
 - Recategorised over 5,000 reference pages for a site attracting 1 million visits a day
 - Managed the transition to a new CMS across teams in Boston, London, Berlin and Hyderabad
-- Merged six distintive product microsites under a single umbrella brand domain
-- Delivered real-world scenario training sessions and a wiki for a global publishing house
+- Merged six product microsites under a single umbrella brand domain
+- Delivered training sessions and a wiki for a global publishing house
 
 By [employing my expertise](/contact), I can solve your content challenges at a rapid pace, without you being tied down with too many senior-level staff or expensive agencies.
 
