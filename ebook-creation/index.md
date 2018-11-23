@@ -82,7 +82,7 @@ You'll retain all rights and ownership of the book and I will coordinate various
 
 Printing services are also available on request should you wish for your book to take a physical form.
 
-![Content Design eBooks](/assets/img/ebooks.png)
+![Content Design eBooks](/assets/img/icrossing-ebooks.png)
 _Written for [iCrossing](https://www.icrossing.com/uk/)_
 
 ---
