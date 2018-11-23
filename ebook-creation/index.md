@@ -86,7 +86,7 @@ Printing services are also available on request should you wish for your book to
 
 <figure>
  <img src="/assets/img/ebooks.png" alt="">
- <figcaption>Written for <a href="https://www.icrossing.com/uk/" target="_blank">iCrossing/a></figcaption>
+ <figcaption>Written for <a href="https://www.icrossing.com/uk/" target="_blank">iCrossing</a></figcaption>
 </figure>
 
 ---
