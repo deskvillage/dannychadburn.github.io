@@ -21,10 +21,8 @@ From startups wanting a small booklet to multinationals needing an advanced guid
 
 <a href="/contact"><button class="button">Let's discuss your project</button></a>
 
-<figure>
- <img src="/assets/img/diy-content-marketing-strategy.jpg" alt="">
- <figcaption>Written for <a href="https://www.ayima.com/" target="_blank">Ayima</a></figcaption>
-</figure>
+![Content Strategy Course](/assets/img/diy-content-marketing-strategy.jpg)
+_Written for [Ayima](https://www.ayima.com)_
 
 The usual process consists of six stages:
 
@@ -84,10 +82,8 @@ You'll retain all rights and ownership of the book and I will coordinate various
 
 Printing services are also available on request should you wish for your book to take a physical form.
 
-<figure>
- <img src="/assets/img/ebooks.png" alt="">
- <figcaption>Written for <a href="https://www.icrossing.com/uk/" target="_blank">iCrossing</a></figcaption>
-</figure>
+![Content Design eBooks](/assets/img/ebooks.png)
+_Written for [iCrossing](https://www.icrossing.com/uk/)_
 
 ---
 ### 6 - Distribution, Promotion and Analysis
