@@ -6,9 +6,9 @@ published: true
 
 # Digging into the detail
 
-#### Data is the last basion of the content industry. We all know it's important, but few businesses have developed a solid structure for establishing whether what they're doing works.
+#### Data is the last bastion of the digitla marketing industry. We all know it's important, but few businesses have developed a solid structure for establishing whether what they're doing works.
 
-When you've managed as many [content campaigns](/consultancy/creative-content-marketing) as I have, you're bound to pick up knowledge of how to report on success.
+When you've managed as many [campaigns](/consultancy/creative-content-marketing) as I have, you're bound to pick up knowledge of how to report on success.
 
 I help businesses get clarity with data frameworks and dashboards. They're quick to construct, simple to understand and seamless to share with colleagues, clients and your big bosses.
 
@@ -30,7 +30,7 @@ This isn’t about yet another expensive tool or ripping up what you’re doing.
 
 Your content operation might consist of PR, SEO, social media, editorial and marketing teams all working on similar activities. But they'll all have their own targets and will track different metrics in different ways.
 
-All this disparate information will likely contradict what your ecommerce team has say.
+All this disparate information will likely contradict what your ecommerce team has to say.
 
 #### A centralised view of data is essential so they each understand the broader consequences of their actions. 
 
